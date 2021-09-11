@@ -1,0 +1,145 @@
+MyAnimation1:
+  change-interval: 100
+  texts:
+  - '&d-&3--------------'
+  - '&3-&d-&3-------------'
+  - '&3--&d-&3------------'
+  - '&3---&d-&3-----------'
+  - '&3----&d-&3----------'
+  - '&3-----&d-&3---------'
+  - '&3------&d-&3--------'
+  - '&3-------&d-&3-------'
+  - '&3--------&d-&3------'
+  - '&3---------&d-&3-----'
+  - '&3----------&d-&3----'
+  - '&3-----------&d-&3---'
+  - '&3------------&d-&3--'
+  - '&3-------------&d-&3-'
+  - '&3--------------&d-'
+  - '&3-------------&d-&3-'
+  - '&3------------&d-&3--'
+  - '&3-----------&d-&3---'
+  - '&3----------&d-&3----'
+  - '&3---------&d-&3-----'
+  - '&3--------&d-&3------'
+  - '&3-------&d-&3-------'
+  - '&3------&d-&3--------'
+  - '&3-----&d-&3---------'
+  - '&3----&d-&3----------'
+  - '&3---&d-&3-----------'
+  - '&3--&d-&3------------'
+  - '&3-&d-&3-------------'
+  - '&d-&3--------------'
+ServerName:
+  change-interval: 300
+  texts:
+  - '&c&lServerName'
+  - '&c&n&lServerName'
+  - '&b&lServerName'
+  - '&b&l&nServerName'
+  - '&e&lServerName'
+  - '&e&n&lServerName'
+web:
+  change-interval: 200
+  texts:
+  - '&ewww.discord.gg/etcesports'
+  - '&ewww.discord.gg/etcesports'
+  - '&ewww.discord.gg/etcesports'
+  - '&ewww.discord.gg/etcesports'
+  - '&ewww.discord.gg/etcesports'
+  - '&ewww.discord.gg/etcesports'
+  - '&6w&eww.discord.gg/etcesports'
+  - '&ew&6w&ew.discord.gg/etcesports'
+  - '&eww&6w&e.discord.gg/etcesports'
+  - '&ewww&6.&ediscord.gg/etcesports'
+  - '&ewww.&6d&eiscord.gg/etcesports'
+  - '&ewww.d&6i&escord.gg/etcesports'
+  - '&ewww.di&6s&ecord.gg/etcesports'
+  - '&ewww.dis&6c&eord.gg/etcesports'
+  - '&ewww.disc&6o&erd.gg/etcsports'
+  - '&ewww.disco&6r&ed.gg/etcsports'
+  - '&ewww.discord&6.&egg/etcesports'
+  - '&ewww.discord.&6g&eg/etcesports'
+  - '&ewww.discord.c&6gg/etcesports'
+  - '&ewww.discord.gg&6/etcesports'
+  - '&ewww.discord.gg/etcesports'
+  - '&www.ediscord.gg/etcesports'
+  - '&ewww.discord.gg/etcesports'
+  - '&ewww.discord.gg/etcesports'
+  - '&ewww.discord.gg/etcesports'
+  - '&ewww.discord.gg/etcesports'
+vote:
+  change-interval: 1000
+  texts:
+  - '&avote.domain.com'
+  - '&a&nvote.domain.com'
+  - '&5vote.domain.com'
+  - '&5&nvote.domain.com'
+Welcome:
+  change-interval: 400
+  texts:
+  - '&7&lW_'
+  - '&7&lW_'
+  - '&7&lWe_'
+  - '&7&lWel_'
+  - '&7&lWelc_'
+  - '&7&lWelco_'
+  - '&7&lWelcom_'
+  - '&7&lWelcome_'
+  - '&7&lWelcome_'
+  - '&7&lWelcome_'
+  - '&7&lWelcome_'
+  - '&7&lWelcom_'
+  - '&7&lWelco_'
+  - '&7&lWelc_'
+  - '&7&lWel_'
+  - '&7&lWe_'
+  - '&7&lW_'
+  - '&7&lW_'
+time:
+  change-interval: 900
+  texts:
+  - '&7Time &b%time%'
+  - '&7> Time &b%time% &7<'
+  - '&7>> Time &b%time% &7<<'
+  - '&7>>> Time &b%time% &7<<<'
+  - '&7Date &b%date%'
+  - '&7> Date &b%date% &7<'
+  - '&7>> Date &b%date% &7<<'
+  - '&7>>> Date &b%date% &7<<<'
+ping-tps:
+  change-interval: 5000
+  texts:
+  - '&aPing: &2&n%ping%&r &ams'
+  - '&bServer TPS: &8%tps%'
+admin_prefix:
+  change-interval: 1000
+  texts:
+  - '&6&lAdmin &e'
+  - '&6&lAdmin &e'
+  - '&9&lAdmin &e'
+  - '&9&lAdmin &e'
+  - '&4&lAdmin &e'
+  - '&4&lAdmin &e'
+  - '&3&lAdmin &e'
+  - '&3&lAdmin &e'
+  - '&2&lAdmin &e'
+  - '&2&lAdmin &e'
+  - '&d&lAdmin &e'
+  - '&d&lAdmin &e'
+  - '&f&lAdmin &e'
+  - '&f&lAdmi &e'
+  - '&f&lAdm &e'
+  - '&f&lAd &e'
+  - '&f&lA &e'
+  - '&f&lAd &e'
+  - '&f&lAdm &e'
+  - '&f&lAdmi &e'
+  - '&f&lAdmin &e'
+barcolors:
+  change-interval: 1000
+  texts:
+  - RED
+  - BLUE
+  - GREEN
+  - YELLOW

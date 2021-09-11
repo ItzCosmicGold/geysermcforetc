@@ -1,0 +1,22 @@
+{
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2021-01-29 09:24:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_cyan_terracotta": "2021-01-23 14:23:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:swamp": "2021-01-22 09:11:09 +0100",
+      "minecraft:plains": "2021-01-22 09:10:19 +0100"
+    },
+    "done": false
+  },
+  "DataVersion": 2584
+}

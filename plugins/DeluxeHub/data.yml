@@ -1,0 +1,9 @@
+chat_locked: false
+spawn:
+  ==: org.bukkit.Location
+  world: skyblocj
+  x: 46.311834219819104
+  y: 86.0
+  z: 22.51779386788147
+  pitch: -0.15019234
+  yaw: 88.273155

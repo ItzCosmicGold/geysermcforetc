@@ -1,0 +1,66 @@
+insufficient-permissions-title: Insufficient Permissions
+insufficient-permissions: '{Sender}, you do not have permission to use this command.'
+insufficient-permissions-remove-title: Insufficient Permissions
+insufficient-permissions-remove: '{Sender}, you only have permission to add people
+  to the whitelist. To remove people from the whitelist you must be moved to the following
+  roles: {AddRemoveRoles}; or get the owner to move your role to ''add-remove-roles''
+  in the config.'
+no-whitelists-remaining-title: No Whitelists Remaining
+no-whitelists-remaining: '{Sender}, unable to whitelist. You have **{RemainingWhitelists}
+  out of {MaxWhitelistAmount}** whitelists remaining.'
+invalid-characters-warning-title: Invalid Username
+invalid-characters-warning: '{Sender}, the username you have specified contains invalid
+  characters. **Only letters, numbers and underscores are allowed**.'
+invalid-length-warning-title: Invalid Username
+invalid-length-warning: '{Sender}, the username you have specified either contains
+  too few or too many characters. **Usernames can only consist of 3-16 characters**.'
+already-on-whitelist-title: User already on the whitelist
+already-on-whitelist: '{Sender}, cannot add user as `{MinecraftUsername}` is already
+  on the whitelist!'
+user-was-removed-title: This user was previously removed by a staff member
+user-was-removed: '{Sender}, this user was previously removed by a staff member ({StaffMember}).
+  Please ask a user with higher permissions to add this user.'
+user-was-removed-in-game-title: This user was previously removed by a staff member
+user-was-removed-in-game: '{Sender}, this user was previously removed by a staff member
+  in-game ({StaffMember}). Please ask a user with higher permissions to add this user.'
+whitelists-remaining-title: Whitelists Remaining
+whitelists-remaining: You have **{RemainingWhitelists} out of {MaxWhitelistAmount}**
+  whitelists remaining.
+whitelist-success-title: '{MinecraftUsername} is now whitelisted!'
+whitelist-success: '{Sender} has added `{MinecraftUsername}` to the whitelist.'
+whitelist-failure-title: Failed to whitelist
+whitelist-failure: '{Sender}, failed to add `{MinecraftUsername}` to the whitelist.
+  This is most likely due to an invalid Minecraft username.'
+user-not-on-whitelist-title: This user is not on the whitelist
+user-not-on-whitelist: '{Sender}, cannot remove user as `{MinecraftUsername}` is not
+  on the whitelist!'
+remove-success-title: '{MinecraftUsername} has been removed'
+remove-success: '{Sender} has removed {MinecraftUsername} from the whitelist'
+banned-title: You have been banned!
+banned-message: '{Sender}, you cannot use this bot as you have been banned!'
+clear-name-success-title: Successfully Cleared `{MinecraftUsername}`
+clear-name-success-message: '{Sender} successfully cleared username `{MinecraftUsername}`
+  from {DiscordID}''s whitelisted users.'
+clear-name-failure-title: '{MinecraftUsername} not Found'
+clear-name-failure-message: '{Sender}, could not find name `{MinecraftUsername}` to
+  clear in user list.'
+clear-ban-success-title: Successfully Cleared `{MinecraftUsername}`
+clear-ban-success-message: '{Sender} has successfully cleared `{MinecraftUsername}`
+  from the removed list(s).'
+clear-ban-failure-title: Failed to clear `{MinecraftUsername}`
+clear-ban-failure-message: '{Sender}, `{MinecraftUsername}` cannot be found in any
+  of the removed lists!'
+instructional-message-title: How to Whitelist
+instructional-message: Use `/whitelist add <minecraftUsername>` to whitelist yourself.
+  In the case of whitelisting an incorrect name, please contact a staff member to
+  clear it from the whitelist.
+whitelist-clear-success-title: Successfully Removed {Sender}'s Whitelisted Entries
+whitelist-clear-success-message: "{Sender} successfully removed the following users\
+  \ from the whitelist: \n{RemovedEntries}\nYou now have **{MaxWhitelistAmount} whitelist(s)\
+  \ remaining**."
+whitelist-clear-failure-title: No Entries to Remove
+whitelist-clear-failure-message: '{Sender}, you do not have any whitelisted entries
+  to remove. '
+command-channel-title: This Channel is for Commands Only
+command-channel-message: '{Sender}, this channel is for commands only, please use
+  another channel.'

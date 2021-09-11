@@ -1,0 +1,47 @@
+Welcome:
+  location: etclobby, 1.500, 81.000, 2.500
+  lines:
+  - '&6✥ Welcome To ✥'
+  - '&6✥ &dENJOY THE COMPANY &6✥'
+  - '&6✥ &bSMP &6✥'
+  - '&cDo /fly to enable Flight!'
+test:
+  location: etclobby, 1.500, 80.000, 2.500
+  lines:
+  - 'ICON: totem_of_undying'
+test1:
+  location: etclobby, -7.500, 82.000, 9.500
+  lines:
+  - 'ICON: chest'
+test2:
+  location: etclobby, 1.500, 82.000, 10.500
+  lines:
+  - 'ICON: diamond_sword'
+Parkour:
+  location: etclobby, 10.500, 81.000, 9.500
+  lines:
+  - '&u PARKOUR CHALLANGE!'
+Easy:
+  location: parkour, 27.500, 32.000, 12.500
+  lines:
+  - '&2&lEASY'
+medium:
+  location: parkour, 24.500, 32.200, 12.500
+  lines:
+  - '&9&lMEDIUM'
+hard:
+  location: parkour, 21.500, 32.000, 12.500
+  lines:
+  - '&c&lHARD'
+parkourinfo:
+  location: parkour, 30.500, 32.000, 13.500
+  lines:
+  - '&6&lHOW TO USE?'
+  - '&c1. &fJump on the portal frames to start.'
+  - '&c2. &fBlocks Will Appear As You Proceed.'
+  - '&c3. &fContact The Admins If You Face Any Problems.'
+introduction:
+  location: skyblocj, 42.500, 88.000, 22.500
+  lines:
+  - ♫ &bFor Best Experience Use &c&l&oClassic Mode In GUI &r &6&l(For Bedrock Players)
+    &r♫

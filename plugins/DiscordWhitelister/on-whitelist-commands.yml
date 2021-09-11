@@ -1,0 +1,8 @@
+# The list of commands that will be dispatched when a player gets whitelisted. (Use the following syntax: 
+# "%TYPE%:%COMMAND%", being %TYPE% whether 'CONSOLE' or 'PLAYER' and the command without the slash (/)
+# placeholder %PLAYER% is supported here).
+# NOTE: The 'PLAYER' type will only work if the target whitelisted player is in the server at the time of command dispatch.
+
+on-whitelist-commands:
+- CONSOLE:gamemode adventure %PLAYER%
+- CONSOLE:say hello testing

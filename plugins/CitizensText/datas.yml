@@ -1,0 +1,9 @@
+# Do not edit anything here! Everything should be modified in-game.
+data:
+- npc: 32
+  messages:
+    0: https://www.discord.gg/etcesports
+- npc: 11
+  messages:
+    0: https://discord.gg/GX3dqEcxcE
+lastVersion: '1.2'

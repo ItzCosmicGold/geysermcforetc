@@ -1,0 +1,25 @@
+core:
+  command-aliases: goldencrates,crates,crate,case,cases
+  lang: en
+  prefix: GoldenCrates
+data:
+  auto-save: 15
+  instant-save: false
+  storage:
+    type: sqlite
+    username: none
+    password: none
+    host: none
+    database: none
+  purge:
+    enabled: false
+    days: 60
+crates:
+  block:
+    disable-visual-drop: false
+  menu:
+    lore:
+    - '%crate_lore%'
+    - '&7'
+    - '&bYou have &a%keys% &bkeys!'
+    - '&bCrate Open Cost: &c%cost%$'

@@ -1,0 +1,28 @@
+lastAccountName: ItzAnu_
+timestamps:
+  login: 1630824580460
+  logout: 1629768596531
+  lastteleport: 1629164938677
+  kits:
+    color: 1629645602446
+    notch: 1629645637544
+    dtools: 1629645606042
+    tools: 1629645644440
+ipAddress: 127.0.0.1
+logoutlocation:
+  world: skyblocj
+  x: 43.47409811626347
+  y: 86.0
+  z: 22.262385305058825
+  yaw: -81.52756
+  pitch: 11.100012
+lastlocation:
+  world: skyblocj
+  x: 23.327988180152072
+  y: 79.0
+  z: 13.60119345299817
+  yaw: 76.14014
+  pitch: 24.449785
+afk: false
+nickname: ItzAnu_
+money: '995020.0'

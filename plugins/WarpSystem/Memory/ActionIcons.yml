@@ -1,0 +1,75 @@
+Background_Item:
+  Type: BLACK_STAINED_GLASS_PANE
+  Amount: 1
+  Name: ''
+Icons:
+- item:
+    Type: DIAMOND_SWORD
+    Lore:
+    - '&fTeleport To Survival'
+    Amount: 1
+    Name: '&cSURVIVAL'
+  name: '&cSURVIVAL'
+  slot: 21
+  performed: 8
+  actions:
+  - value:
+      destination:
+        id: Survival
+        type: 1
+- item:
+    Type: NETHER_STAR
+    Lore:
+    - '&fTeleport To Lobby'
+    Amount: 1
+    Enchantments: '{"KNOCKBACK":1,"LOOT_BONUS_BLOCKS":1}'
+    HideEnchantments: true
+    Name: '&6Lobby'
+  name: '&6Lobby'
+  slot: 19
+  performed: 5
+  actions:
+  - value:
+      destination:
+        id: Lobby
+        type: 1
+  - id: 5
+    value:
+      volume: 1.0
+      sound: ENTITY_DRAGON_FIREBALL_EXPLODE
+      pitch: 1.0
+- item:
+    Type: SLIME_BALL
+    Lore:
+    - '&fTeleport To Parkour'
+    Amount: 1
+    Enchantments: '{"KNOCKBACK":1}'
+    HideEnchantments: true
+    Name: Parkour
+  name: Parkour
+  slot: 29
+  performed: 3
+  actions:
+  - value:
+      destination:
+        id: Parkour
+        type: 1
+  - id: 5
+    value:
+      volume: 1.0
+      sound: ENTITY_ELDER_GUARDIAN_HURT
+      pitch: 1.0
+- item:
+    Type: GRASS_BLOCK
+    Amount: 1
+    Enchantments: '{"KNOCKBACK":1,"LOOT_BONUS_BLOCKS":1}'
+    HideEnchantments: true
+    Name: '&b&lSKYBLOCK'
+  name: '&b&lSKYBLOCK'
+  slot: 31
+  performed: 3
+  actions:
+  - value:
+      destination:
+        id: Skyblock
+        type: 1

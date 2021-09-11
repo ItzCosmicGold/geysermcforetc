@@ -1,0 +1,6 @@
+whitelist-add-prefix: /whitelist add
+whitelist-remove-prefix: /whitelist remove
+clear-name-prefix: /clearname
+limited-whitelist-clear-prefix: /whitelist clear
+clear-ban-prefix: '!clearban'
+whitelist-whois-prefix: /whitelist whois

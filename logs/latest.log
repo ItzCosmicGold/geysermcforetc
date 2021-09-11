@@ -1,0 +1,1700 @@
+[12:16:48] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[12:16:48] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[12:16:49] [Worker-Main-6/INFO]: Loaded 7 recipes
+[12:16:50] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[12:16:50] [Server thread/INFO]: Loading properties
+[12:16:50] [Server thread/INFO]: This server is running Paper version git-Paper-102 (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT) (Git: b015abb)
+[12:16:50] [Server thread/INFO]: Debug logging is disabled
+[12:16:50] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[12:16:50] [Server thread/INFO]: Using 4 threads for Netty based IO
+[12:16:50] [Server thread/INFO]: Default game type: SURVIVAL
+[12:16:50] [Server thread/INFO]: Generating keypair
+[12:16:50] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:16:50] [Server thread/INFO]: Using default channel type
+[12:16:51] [Server thread/ERROR]: Ambiguous plugin name `TAB' for files `plugins\TAB_v2.9.2.jar' and `plugins\TAB_v2.9.2 - Copy.jar' in `plugins'
+[12:16:51] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[12:16:55] [Server thread/WARN]: Legacy plugin PluginManager v2.6 does not specify an api-version.
+[12:16:56] [Server thread/INFO]: [CitizensBooks] Your server is running version v1_17_R1!
+[12:16:56] [Server thread/INFO]: [PluginConstructorAPI] Loading PluginConstructorAPI v1.0.52
+[12:16:56] [Server thread/INFO]: [VoidGen] Loading VoidGen v2.0
+[12:16:56] [Server thread/INFO]: [OpenInv] Loading OpenInv v4.1.8
+[12:16:56] [Server thread/INFO]: [PlaceholderAPI] Loading PlaceholderAPI v2.10.10
+[12:16:56] [Server thread/INFO]: [ClearLag] Loading ClearLag v3.2.2
+[12:16:56] [Server thread/INFO]: [PluginManager] Loading PluginManager v2.6
+[12:16:56] [Server thread/INFO]: [Oneblock] Loading Oneblock v0.8.7
+[12:16:56] [Server thread/INFO]: [ImageMaps] Loading ImageMaps v1.0.8
+[12:16:56] [Server thread/INFO]: [BookNews] Loading BookNews v5.4
+[12:16:56] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v4.0.1
+[12:16:56] [Server thread/INFO]: [ViaVersion] ViaVersion 4.0.1 is now loaded, injecting!
+[12:16:57] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading 1.12 -> 1.13 mappings...
+[12:16:57] [Via-Mappingloader-1/INFO]: [ViaVersion] Loading 1.13 -> 1.13.2 mappings...
+[12:16:57] [Via-Mappingloader-2/INFO]: [ViaVersion] Loading 1.13.2 -> 1.14 mappings...
+[12:16:57] [Via-Mappingloader-3/INFO]: [ViaVersion] Loading 1.14 -> 1.15 mappings...
+[12:16:57] [Via-Mappingloader-4/INFO]: [ViaVersion] Loading 1.15 -> 1.16 mappings...
+[12:16:57] [Via-Mappingloader-5/INFO]: [ViaVersion] Loading 1.16 -> 1.16.2 mappings...
+[12:16:57] [Via-Mappingloader-6/INFO]: [ViaVersion] Loading 1.16.2 -> 1.17 mappings...
+[12:16:57] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v4.0.1
+[12:16:57] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[12:16:57] [Via-Mappingloader-7/INFO]: [ViaBackwards] Loading 1.10 -> 1.9.4 mappings...
+[12:16:57] [Via-Mappingloader-7/INFO]: [ViaBackwards] Loading 1.11 -> 1.10 mappings...
+[12:16:57] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[12:16:57] [Via-Mappingloader-1/INFO]: [ViaBackwards] Loading 1.13.2 -> 1.13 mappings...
+[12:16:57] [Via-Mappingloader-1/INFO]: [ViaBackwards] Loading 1.14 -> 1.13.2 mappings...
+[12:16:57] [Via-Mappingloader-3/INFO]: [ViaBackwards] Loading 1.15 -> 1.14 mappings...
+[12:16:57] [Server thread/INFO]: [MiniMOTD] Loading MiniMOTD v2.0.3
+[12:16:57] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.3.51
+[12:16:57] [Via-Mappingloader-1/INFO]: [ViaBackwards] Loading 1.16 -> 1.15 mappings...
+[12:16:57] [Via-Mappingloader-4/INFO]: [ViaBackwards] Loading 1.13 -> 1.12 mappings...
+[12:16:57] [Via-Mappingloader-0/INFO]: [ViaBackwards] Loading 1.16.2 -> 1.16 mappings...
+[12:16:57] [Via-Mappingloader-0/INFO]: [ViaBackwards] Loading 1.17 -> 1.16.2 mappings...
+[12:16:58] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v4.7.0
+[12:16:59] [Server thread/INFO]: [NoCheatPlus] Loading NoCheatPlus v3.17-SNAPSHOT-Updated-b108
+[12:16:59] [Server thread/INFO]: [NoCheatPlus] onLoad: Early set up of static API, configuration, logging.
+[12:16:59] [Server thread/INFO]: [NoCheatPlus] Logging system initialized.
+[12:16:59] [Server thread/INFO]: [NoCheatPlus] Detected Minecraft version: 1.17.1
+[12:16:59] [Server thread/INFO]: [PrefiX] Loading PrefiX v4.6
+[12:16:59] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser-Spigot v1.4.1-SNAPSHOT
+[12:16:59] [Server thread/INFO]: [Vault] Loading Vault v1.7.3-b131
+[12:16:59] [Server thread/INFO]: [PlayerHeads] Loading PlayerHeads v5.2.12-SNAPSHOT
+[12:16:59] [Server thread/INFO]: [PlayerHeads] Internal plugin locale: 
+[12:16:59] [Server thread/INFO]: [PlayerHeads] Environment locale: en_US / en-US
+[12:16:59] [Server thread/INFO]: Trying provider: craftbukkit_1_16
+[12:16:59] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.5+57d5ac9
+[12:17:00] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@75910dcf]
+[12:17:00] [Server thread/INFO]: [Vehicles] Loading Vehicles v12.0
+[12:17:00] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v2.4.8
+[12:17:00] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v7.0.5+3827266
+[12:17:00] [Server thread/INFO]: [Citizens] Loading Citizens v2.0.28-SNAPSHOT (build 2349)
+[12:17:00] [Server thread/INFO]: [Sentinel] Loading Sentinel v2.3.5-SNAPSHOT (build 424)
+[12:17:00] [Server thread/INFO]: [ajParkour] Loading ajParkour v2.12.6
+[12:17:00] [Server thread/INFO]: [NexEngine] Loading NexEngine v2.0.7.4
+[12:17:00] [Server thread/INFO]: [CitizensText] Loading CitizensText v1.2
+[12:17:00] [Server thread/INFO]: [ArmorStandTools] Loading ArmorStandTools v4.1.1
+[12:17:00] [Server thread/INFO]: [ArmorStandTools] Registered custom WorldGuard flag: ast
+[12:17:00] [Server thread/INFO]: [CitizensBooks] Loading CitizensBooks v2.6.4
+[12:17:00] [Server thread/INFO]: [DeluxeHub] Loading DeluxeHub v3.3.10
+[12:17:00] [Server thread/INFO]: [Essentials] Loading Essentials v2.18.2.0
+[12:17:00] [Server thread/INFO]: [IridiumSkyblock] Loading IridiumSkyblock v3.0.8
+[12:17:00] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v4.3.0-b846
+[12:17:00] [Server thread/INFO]: [GoldenCrates] Loading GoldenCrates v3.11.0
+[12:17:00] [Server thread/INFO]: [Multiverse-Inventories] Loading Multiverse-Inventories v4.2.2-b500
+[12:17:00] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.18.2.0
+[12:17:00] [Server thread/INFO]: [TAB] Loading TAB v2.9.2
+[12:17:00] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v4.2.1-b834
+[12:17:00] [Server thread/INFO]: [SuperVanish] Loading SuperVanish v6.2.6
+[12:17:00] [Server thread/INFO]: [WarpSystem] Loading WarpSystem v5.0.4-free
+[12:17:00] [Server thread/INFO]: [DiscordSRV] Loading DiscordSRV v1.23.0
+[12:17:00] [Server thread/INFO]: [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v4.2.1-b786
+[12:17:00] [Server thread/INFO]: [StaffPlus] Loading StaffPlus v3.3.6.0-RELEASE
+[12:17:00] [Server thread/INFO]: Hooked into PlaceholderAPI 2.10.10
+[12:17:00] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[12:17:00] [Server thread/INFO]: [VoidGen] Enabling VoidGen v2.0
+[12:17:00] [Server thread/INFO]: [VoidGen] Using VoidChunkGen: v1_17
+[12:17:00] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.3.51
+[12:17:01] [Server thread/INFO]:         __    
+[12:17:01] [Server thread/INFO]:   |    |__)   LuckPerms v5.3.51
+[12:17:01] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[12:17:01] [Server thread/INFO]: 
+[12:17:01] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[12:17:01] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[12:17:02] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[12:17:02] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[12:17:02] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1695ms)
+[12:17:02] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v4.7.0
+[12:17:02] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[12:17:02] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[12:17:02] [Server thread/WARN]: [Vault] Loaded class com.earth2me.essentials.api.Economy from Essentials v2.18.2.0 which is not a depend, softdepend or loadbefore of this plugin.
+[12:17:02] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[12:17:02] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[12:17:02] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[12:17:02] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[12:17:02] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.5+57d5ac9
+[12:17:02] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[12:17:03] [Server thread/WARN]: 
+**********************************************
+** This WorldEdit version does not fully support your version of Bukkit.
+**
+** When working with blocks or undoing, chests will be empty, signs
+** will be blank, and so on. There will be no support for entity
+** and block property-related functions.
+**
+** Please see https://worldedit.enginehub.org/en/latest/faq/#bukkit-adapters
+**********************************************
+
+[12:17:03] [Server thread/INFO]: [NexEngine] Enabling NexEngine v2.0.7.4
+[12:17:03] [Server thread/INFO]: [NexEngine] Loaded NMS version: V1_17_R1
+[12:17:03] [Server thread/INFO]: [NexEngine] Successfully hooked with LuckPerms permissions
+[12:17:03] [Server thread/INFO]: [NexEngine] Successfully hooked with Essentials Economy economy
+[12:17:03] [Server thread/INFO]: [NexEngine] Successfully hooked with LuckPerms chat
+[12:17:03] [Server thread/INFO]: [NexEngine] [Hook] Vault: Success!
+[12:17:03] [Server thread/INFO]: [NexEngine] Found 0 external module(s).
+[12:17:03] [Server thread/INFO]: [NexEngine] Plugin loaded in 301 ms!
+[12:17:03] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12:17:03] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[12:17:03] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12:17:03] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[12:17:03] [Server thread/INFO]: Preparing level "skyblocj"
+[12:17:04] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[12:17:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:17:07] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:17:07] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[12:17:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:17:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:17:07] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:17:07] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[12:17:07] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[12:17:07] [Server thread/INFO]: Time elapsed: 3090 ms
+[12:17:07] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[12:17:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:17:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:17:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:17:09] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:17:09] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:17:10] [Server thread/INFO]: Time elapsed: 2457 ms
+[12:17:10] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[12:17:13] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[12:17:13] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[12:17:13] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:17:13] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[12:17:13] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[12:17:13] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[12:17:13] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[12:17:13] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[12:17:14] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[12:17:14] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[12:17:14] [Server thread/INFO]: Time elapsed: 4681 ms
+[12:17:14] [Server thread/INFO]: [PluginConstructorAPI] Enabling PluginConstructorAPI v1.0.52
+[12:17:14] [Server thread/INFO]: [OpenInv] Enabling OpenInv v4.1.8
+[12:17:14] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.10.10
+[12:17:14] [Server thread/WARN]: [PlaceholderAPI] Loaded class com.viaversion.viaversion.api.type.Type from ViaVersion v4.0.1 which is not a depend, softdepend or loadbefore of this plugin.
+[12:17:14] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[12:17:14] [Server thread/INFO]: [ClearLag] Enabling ClearLag v3.2.2
+[12:17:14] [Server thread/INFO]: [ClearLag] Using version-adapter: LatestVersionAdapter
+[12:17:15] [Server thread/INFO]: [ClearLag] Loading modules...
+[12:17:15] [Server thread/WARN]: [ClearLag] Clearlag failed to use the internal TPS tracker during initialization. Reverted to estimation... (net.minecraft.server.v1_17_R1.MinecraftServer)
+[12:17:15] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
+[12:17:15] [Server thread/WARN]: [ClearLag] Item type 'gold_helmet' does not match any Materials found on your Craftbukkit version.
+[12:17:15] [Server thread/WARN]: [ClearLag] Item type 'gold_chestplate' does not match any Materials found on your Craftbukkit version.
+[12:17:15] [Server thread/WARN]: [ClearLag] Item type 'gold_leggings' does not match any Materials found on your Craftbukkit version.
+[12:17:15] [Server thread/WARN]: [ClearLag] Item type 'gold_boots' does not match any Materials found on your Craftbukkit version.
+[12:17:15] [Server thread/WARN]: [ClearLag] Item type 'gold_sword' does not match any Materials found on your Craftbukkit version.
+[12:17:15] [Server thread/WARN]: [ClearLag] Item type 'gold_shovel' does not match any Materials found on your Craftbukkit version.
+[12:17:15] [Server thread/WARN]: [ClearLag] Item type 'gold_pickaxe' does not match any Materials found on your Craftbukkit version.
+[12:17:15] [Server thread/WARN]: [ClearLag] Item type 'gold_axe' does not match any Materials found on your Craftbukkit version.
+[12:17:15] [Server thread/WARN]: [ClearLag] Item type 'gold_hoe' does not match any Materials found on your Craftbukkit version.
+[12:17:15] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[12:17:15] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[12:17:15] [Thread-23/INFO]: [ClearLag] Checking for updates compatible with your bukkit version [1.17]...
+[12:17:15] [Server thread/INFO]: [PluginManager] Enabling PluginManager v2.6*
+[12:17:15] [Server thread/INFO]: [Oneblock] Enabling Oneblock v0.8.7
+[12:17:15] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: OB
+[12:17:15] [Server thread/INFO]: [OB] PlaceholderAPI has been found!
+[12:17:15] [Server thread/INFO]: [ImageMaps] Enabling ImageMaps v1.0.8
+[12:17:15] [Server thread/INFO]: [BookNews] Enabling BookNews v5.4
+[12:17:16] [Thread-23/INFO]: [ClearLag] No updates found!
+[12:17:16] [Server thread/INFO]: BookNews is fully updated.
+[12:17:16] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.0.1
+[12:17:16] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v4.0.1
+[12:17:16] [Server thread/INFO]: [MiniMOTD] Enabling MiniMOTD v2.0.3
+[12:17:16] [Server thread/INFO]: [NoCheatPlus] Enabling NoCheatPlus v3.17-SNAPSHOT-Updated-b108
+[12:17:16] [Server thread/INFO]: [NoCheatPlus] McAccess set to: 1.13-1.17|? / Bukkit-API
+[12:17:16] [Server thread/INFO]: [NoCheatPlus] Applied block patches for multi client protocol support: water_lily, soil, vine, honey_block, shulker_box
+[12:17:16] [Server thread/INFO]: [NoCheatPlus] Update block-info: Block shape patch for multi client protocol support around 1.7.x - 1.17.x.
+[12:17:17] [Server thread/INFO]: [NoCheatPlus] Inventory checks: FastConsume is available, disabled InstantEat.
+[12:17:17] [Server thread/INFO]: [NoCheatPlus] Adding packet level hooks for ProtocolLib (MC 1.17.1)...
+[12:17:17] [Server thread/INFO]: [NoCheatPlus] Confirm teleport packet available (via name): TELEPORT_ACCEPT[class=PacketPlayInTeleportAccept, id=0]
+[12:17:17] [Server thread/INFO]: [NoCheatPlus] Available (and activated) packet level hooks: UseEntityAdapter | MovingFlying | OutgoingPosition | KeepAliveAdapter | SoundDistance | WrongTurnAdapter | NoSlow | Fight
+[12:17:17] [Server thread/INFO]: [NoCheatPlus] Force disable FastHeal, FastConsume, PacketFrequency and InstantBow on Minecraft 1.9 and later.
+[12:17:17] [Server thread/INFO]: [NoCheatPlus] Version 3.17-SNAPSHOT-Updated-b108 is enabled.
+[12:17:17] [Server thread/INFO]: [PrefiX] Enabling PrefiX v4.6
+[12:17:17] [Server thread/INFO]: [PrefiX] Loading 45 messages.
+[12:17:17] [Server thread/INFO]: [PrefiX] Loaded config
+[12:17:17] [Server thread/INFO]: [PrefiX] We're up and running
+[12:17:17] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v1.4.1-SNAPSHOT
+[12:17:17] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[12:17:17] [Server thread/INFO]: [Geyser-Spigot] 
+[12:17:17] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 1.4.1-SNAPSHOT (git-master-ba4e0cf)
+[12:17:17] [Server thread/INFO]: [Geyser-Spigot] 
+[12:17:17] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[12:17:17] [Server thread/WARN]: [Geyser-Spigot] Loaded class org.slf4j.impl.StaticLoggerBinder from ajParkour v2.12.6 which is not a depend, softdepend or loadbefore of this plugin.
+[12:17:25] [Network Listener - #1/INFO]: [Geyser-Spigot] Started Geyser on 0.0.0.0:19132
+[12:17:25] [Server thread/INFO]: [Geyser-Spigot] Done (7.334s)! Run /geyser help for help!
+[12:17:25] [Server thread/INFO]: [PlayerHeads] Enabling PlayerHeads v5.2.12-SNAPSHOT
+[12:17:25] [Server thread/INFO]: [PlayerHeads] NoCheatPlus support detected.
+[12:17:25] [Server thread/INFO]: [PlayerHeads] Current plugin compatibility version: craftbukkit 1.16
+[12:17:25] [Server thread/INFO]: [Vehicles] Enabling Vehicles v12.0
+[12:17:26] [Server thread/WARN]: java.lang.NoSuchMethodException: net.minecraft.network.protocol.game.PacketPlayOutEntityDestroy.<init>(int)
+[12:17:26] [Server thread/WARN]: 	at java.base/java.lang.Class.getConstructor0(Class.java:3517)
+[12:17:26] [Server thread/WARN]: 	at java.base/java.lang.Class.getConstructor(Class.java:2238)
+[12:17:26] [Server thread/WARN]: 	at es.pollitoyeye.vehicles.utils.EntityUtils.initReflection(EntityUtils.java:235)
+[12:17:26] [Server thread/WARN]: 	at es.pollitoyeye.vehicles.VehiclesMain.onEnable(VehiclesMain.java:168)
+[12:17:26] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:263)
+[12:17:26] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:370)
+[12:17:26] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:500)
+[12:17:26] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_17_R1.CraftServer.enablePlugin(CraftServer.java:518)
+[12:17:26] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_17_R1.CraftServer.enablePlugins(CraftServer.java:432)
+[12:17:26] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.loadWorld(MinecraftServer.java:639)
+[12:17:26] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.init(DedicatedServer.java:306)
+[12:17:26] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1126)
+[12:17:26] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316)
+[12:17:26] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:831)
+[12:17:26] [Server thread/INFO]: Vehicles >> lang.yml loaded.
+[12:17:26] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v2.4.8
+[12:17:26] [Server thread/INFO]: [HolographicDisplays] Enabled player relative placeholders with ProtocolLib.
+[12:17:26] [pool-21-thread-1/INFO]: [Geyser-Spigot] There is an update available for Geyser. The newest version is: 1.4.2-SNAPSHOT. We highly recommend updating because some important changes have been made. See our Discord server (https://discord.gg/GeyserMC) or https://github.com/GeyserMC/Geyser/security/advisories/GHSA-h77f-xxx7-4858/ for more information.
+[12:17:26] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.5+3827266
+[12:17:26] [Server thread/INFO]: [WorldGuard] (skyblocj) TNT ignition is PERMITTED.
+[12:17:26] [Server thread/INFO]: [WorldGuard] (skyblocj) Lighters are PERMITTED.
+[12:17:26] [Server thread/INFO]: [WorldGuard] (skyblocj) Lava fire is PERMITTED.
+[12:17:26] [Server thread/INFO]: [WorldGuard] (skyblocj) Fire spread is UNRESTRICTED.
+[12:17:26] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'skyblocj'
+[12:17:26] [Server thread/INFO]: [WorldGuard] (skyblocj_nether) TNT ignition is PERMITTED.
+[12:17:26] [Server thread/INFO]: [WorldGuard] (skyblocj_nether) Lighters are PERMITTED.
+[12:17:26] [Server thread/INFO]: [WorldGuard] (skyblocj_nether) Lava fire is PERMITTED.
+[12:17:26] [Server thread/INFO]: [WorldGuard] (skyblocj_nether) Fire spread is UNRESTRICTED.
+[12:17:26] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'skyblocj_nether'
+[12:17:26] [Server thread/INFO]: [WorldGuard] (skyblocj_the_end) TNT ignition is PERMITTED.
+[12:17:26] [Server thread/INFO]: [WorldGuard] (skyblocj_the_end) Lighters are PERMITTED.
+[12:17:26] [Server thread/INFO]: [WorldGuard] (skyblocj_the_end) Lava fire is PERMITTED.
+[12:17:26] [Server thread/INFO]: [WorldGuard] (skyblocj_the_end) Fire spread is UNRESTRICTED.
+[12:17:26] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'skyblocj_the_end'
+[12:17:26] [Server thread/INFO]: [WorldGuard] Loading region data...
+[12:17:26] [Server thread/INFO]: [NexEngine] [Hook] WorldGuard: Success!
+[12:17:26] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.28-SNAPSHOT (build 2349)
+[12:17:26] [Server thread/WARN]: [NexEngine] Loaded class net.citizensnpcs.api.trait.TraitInfo from Citizens v2.0.28-SNAPSHOT (build 2349) which is not a depend, softdepend or loadbefore of this plugin.
+[12:17:26] [Server thread/INFO]: [NexEngine] [Hook] Citizens: Success!
+[12:17:26] [Server thread/INFO]: [Sentinel] Enabling Sentinel v2.3.5-SNAPSHOT (build 424)
+[12:17:26] [Server thread/INFO]: [Sentinel] Sentinel loading...
+[12:17:26] [Server thread/INFO]: [Sentinel] Running on java version: 16.0.2
+[12:17:26] [Server thread/INFO]: [Sentinel] Sentinel loaded on a fully supported Minecraft version. If you encounter any issues or need to ask a question, please join our Discord at https://discord.gg/Q6pZGSR and post in the '#sentinel' channel.
+[12:17:26] [Server thread/INFO]: [Sentinel] Vault linked! Group targets will work.
+[12:17:26] [Server thread/INFO]: [Sentinel] Sentinel found WorldGuard! Adding support for it!
+[12:17:26] [Server thread/INFO]: [Sentinel] Sentinel loaded!
+[12:17:26] [Server thread/INFO]: [ajParkour] Enabling ajParkour v2.12.6
+[12:17:26] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: ajpk
+[12:17:26] [Server thread/INFO]: ajParkour v2.12.6 by ajgeiss0702 has been enabled!
+[12:17:26] [Server thread/INFO]: [CitizensText] Enabling CitizensText v1.2
+[12:17:26] [Server thread/INFO]: [CitizensText] PlaceholderAPI hooked !
+[12:17:26] [Server thread/INFO]: [ArmorStandTools] Enabling ArmorStandTools v4.1.1
+[12:17:26] [Server thread/INFO]: [ArmorStandTools] PlotSquared plugin not found. Continuing without PlotSquared support.
+[12:17:26] [Server thread/INFO]: [ArmorStandTools] WorldGuard plugin found. WorldGuard support enabled.
+[12:17:27] [Server thread/INFO]: [CitizensBooks] Enabling CitizensBooks v2.6.4
+[12:17:27] [Server thread/INFO]: [CitizensBooks] ============== BEGIN LOAD ==============
+[12:17:27] [Server thread/INFO]: [CitizensBooks] bStats Metrics starting...
+[12:17:27] [Server thread/INFO]: [CitizensBooks] LuckPerms found, try hooking!
+[12:17:27] [Server thread/INFO]: [CitizensBooks] Vault plugin found, but we'll use LuckPerms!
+[12:17:27] [Server thread/INFO]: [CitizensBooks] PlaceholderAPI found, try hooking!
+[12:17:27] [Server thread/INFO]: [CitizensBooks] Citizens found, try hooking!
+[12:17:27] [Server thread/INFO]: [CitizensBooks] Authme not found!
+[12:17:27] [Server thread/INFO]: [CitizensBooks] ============== END LOAD ==============
+[12:17:27] [Server thread/INFO]: [DeluxeHub] Enabling DeluxeHub v3.3.10
+[12:17:27] [Server thread/INFO]: [DeluxeHub]  _   _            _          _    _ 
+[12:17:27] [Server thread/INFO]: [DeluxeHub] | \ |_ |  | | \/ |_ |_| | | |_)   _)
+[12:17:27] [Server thread/INFO]: [DeluxeHub] |_/ |_ |_ |_| /\ |_ | | |_| |_)   _)
+[12:17:27] [Server thread/INFO]: [DeluxeHub] 
+[12:17:27] [Server thread/INFO]: [DeluxeHub] Version: 3.3.10
+[12:17:27] [Server thread/INFO]: [DeluxeHub] Author: ItsLewizzz
+[12:17:27] [Server thread/INFO]: [DeluxeHub] 
+[12:17:27] [Server thread/INFO]: [DeluxeHub]  Hooked into PlaceholderAPI
+[12:17:27] [Server thread/INFO]: [DeluxeHub] Loaded custom menu 'serverselector'.
+[12:17:27] [Server thread/INFO]: [DeluxeHub] Loaded 13 plugin modules.
+[12:17:27] [Server thread/INFO]: [DeluxeHub] 
+[12:17:27] [Server thread/INFO]: [DeluxeHub] Successfully loaded in 112ms
+[12:17:27] [Server thread/INFO]: [Essentials] Enabling Essentials v2.18.2.0
+[12:17:27] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[12:17:27] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[12:17:27] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[12:17:27] [Server thread/INFO]: [Essentials] Loaded 25599 items from items.json.
+[12:17:27] [Server thread/INFO]: [Essentials] Using locale en_US
+[12:17:27] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[12:17:27] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[12:17:27] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[12:17:27] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[12:17:27] [Server thread/INFO]: [IridiumSkyblock] Enabling IridiumSkyblock v3.0.8
+[12:17:27] [Server thread/INFO]: Preparing start region for dimension minecraft:iridiumskyblock
+[12:17:30] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:17:30] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[12:17:30] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[12:17:30] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:17:30] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[12:17:30] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[12:17:30] [Server thread/INFO]: Time elapsed: 2585 ms
+[12:17:30] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock) TNT ignition is PERMITTED.
+[12:17:30] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock) Lighters are PERMITTED.
+[12:17:30] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock) Lava fire is PERMITTED.
+[12:17:30] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock) Fire spread is UNRESTRICTED.
+[12:17:30] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'IridiumSkyblock'
+[12:17:30] [Server thread/INFO]: Preparing start region for dimension minecraft:iridiumskyblock_nether
+[12:17:31] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[12:17:31] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[12:17:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:17:31] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[12:17:32] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:17:32] [Server thread/INFO]: Time elapsed: 2374 ms
+[12:17:32] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock_nether) TNT ignition is PERMITTED.
+[12:17:32] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock_nether) Lighters are PERMITTED.
+[12:17:32] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock_nether) Lava fire is PERMITTED.
+[12:17:32] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock_nether) Fire spread is UNRESTRICTED.
+[12:17:32] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'IridiumSkyblock_nether'
+[12:17:32] [Server thread/INFO]: Preparing start region for dimension minecraft:iridiumskyblock_the_end
+[12:17:34] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[12:17:34] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[12:17:34] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[12:17:34] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[12:17:34] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[12:17:34] [Server thread/INFO]: Time elapsed: 2303 ms
+[12:17:34] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock_the_end) TNT ignition is PERMITTED.
+[12:17:34] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock_the_end) Lighters are PERMITTED.
+[12:17:34] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock_the_end) Lava fire is PERMITTED.
+[12:17:34] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock_the_end) Fire spread is UNRESTRICTED.
+[12:17:34] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'IridiumSkyblock_the_end'
+[12:17:35] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: iridiumskyblock
+[12:17:35] [Server thread/INFO]: [IridiumSkyblock] Successfully registered 441 placeholders with PlaceholderAPI.
+[12:17:35] [Server thread/INFO]: [IridiumSkyblock] ----------------------------------------
+[12:17:35] [Server thread/INFO]: [IridiumSkyblock] 
+[12:17:35] [Server thread/INFO]: [IridiumSkyblock] IridiumSkyblock Enabled!
+[12:17:35] [Server thread/INFO]: [IridiumSkyblock] Version: 3.0.8
+[12:17:35] [Server thread/INFO]: [IridiumSkyblock] 
+[12:17:35] [Server thread/INFO]: [IridiumSkyblock] ----------------------------------------
+[12:17:35] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.3.0-b846
+[12:17:35] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.3.0-b846" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
+[12:17:35] [Server thread/INFO]: [Multiverse-Core] We are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
+[12:17:35] [Server thread/INFO]: Preparing start region for dimension minecraft:superiorworld
+[12:17:37] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[12:17:37] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:17:37] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:17:37] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[12:17:37] [Server thread/INFO]: Time elapsed: 1657 ms
+[12:17:37] [Server thread/INFO]: [WorldGuard] (SuperiorWorld) TNT ignition is PERMITTED.
+[12:17:37] [Server thread/INFO]: [WorldGuard] (SuperiorWorld) Lighters are PERMITTED.
+[12:17:37] [Server thread/INFO]: [WorldGuard] (SuperiorWorld) Lava fire is PERMITTED.
+[12:17:37] [Server thread/INFO]: [WorldGuard] (SuperiorWorld) Fire spread is UNRESTRICTED.
+[12:17:37] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'SuperiorWorld'
+[12:17:37] [Server thread/INFO]: [VoidGen] Generator settings "<parameters>" syntax is not valid. Using default values:
+[12:17:37] [Server thread/INFO]: [VoidGen] {"caves":false,"decoration":false,"mobs":false,"structures":false}
+[12:17:37] [Server thread/INFO]: Preparing start region for dimension minecraft:oneblock
+[12:17:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:17:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:17:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:17:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:17:39] [Server thread/INFO]: Time elapsed: 1913 ms
+[12:17:39] [Server thread/INFO]: [WorldGuard] (oneblock) TNT ignition is PERMITTED.
+[12:17:39] [Server thread/INFO]: [WorldGuard] (oneblock) Lighters are PERMITTED.
+[12:17:39] [Server thread/INFO]: [WorldGuard] (oneblock) Lava fire is PERMITTED.
+[12:17:39] [Server thread/INFO]: [WorldGuard] (oneblock) Fire spread is UNRESTRICTED.
+[12:17:39] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'oneblock'
+[12:17:39] [Server thread/INFO]: [VoidGen] Generator settings "<parameters>" syntax is not valid. Using default values:
+[12:17:39] [Server thread/INFO]: [VoidGen] {"caves":false,"decoration":false,"mobs":false,"structures":false}
+[12:17:39] [Server thread/INFO]: Preparing start region for dimension minecraft:survival
+[12:17:41] [Server thread/INFO]: Time elapsed: 2020 ms
+[12:17:41] [Server thread/INFO]: [WorldGuard] (survival) TNT ignition is PERMITTED.
+[12:17:41] [Server thread/INFO]: [WorldGuard] (survival) Lighters are PERMITTED.
+[12:17:41] [Server thread/INFO]: [WorldGuard] (survival) Lava fire is PERMITTED.
+[12:17:41] [Server thread/INFO]: [WorldGuard] (survival) Fire spread is UNRESTRICTED.
+[12:17:41] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'survival'
+[12:17:41] [Server thread/INFO]: Preparing start region for dimension minecraft:survival_end
+[12:17:43] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[12:17:43] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[12:17:43] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[12:17:43] [Server thread/INFO]: Time elapsed: 1473 ms
+[12:17:43] [Server thread/INFO]: [WorldGuard] (survival_end) TNT ignition is PERMITTED.
+[12:17:43] [Server thread/INFO]: [WorldGuard] (survival_end) Lighters are PERMITTED.
+[12:17:43] [Server thread/INFO]: [WorldGuard] (survival_end) Lava fire is PERMITTED.
+[12:17:43] [Server thread/INFO]: [WorldGuard] (survival_end) Fire spread is UNRESTRICTED.
+[12:17:43] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'survival_end'
+[12:17:43] [Server thread/INFO]: Preparing start region for dimension minecraft:mainlobby2.0
+[12:17:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:17:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:17:46] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[12:17:46] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[12:17:46] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[12:17:46] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[12:17:46] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[12:17:46] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[12:17:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:17:47] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[12:17:47] [Server thread/INFO]: Time elapsed: 4694 ms
+[12:17:47] [Server thread/INFO]: [WorldGuard] (mainlobby2.0) TNT ignition is PERMITTED.
+[12:17:47] [Server thread/INFO]: [WorldGuard] (mainlobby2.0) Lighters are PERMITTED.
+[12:17:47] [Server thread/INFO]: [WorldGuard] (mainlobby2.0) Lava fire is PERMITTED.
+[12:17:47] [Server thread/INFO]: [WorldGuard] (mainlobby2.0) Fire spread is UNRESTRICTED.
+[12:17:47] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'mainlobby2.0'
+[12:17:48] [Server thread/INFO]: Preparing start region for dimension minecraft:survival_nether
+[12:17:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:17:50] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[12:17:50] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[12:17:50] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[12:17:50] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:17:50] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[12:17:51] [Server thread/INFO]: Time elapsed: 2903 ms
+[12:17:51] [Server thread/INFO]: [WorldGuard] (survival_nether) TNT ignition is PERMITTED.
+[12:17:51] [Server thread/INFO]: [WorldGuard] (survival_nether) Lighters are PERMITTED.
+[12:17:51] [Server thread/INFO]: [WorldGuard] (survival_nether) Lava fire is PERMITTED.
+[12:17:51] [Server thread/INFO]: [WorldGuard] (survival_nether) Fire spread is UNRESTRICTED.
+[12:17:51] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'survival_nether'
+[12:17:51] [Server thread/INFO]: Preparing start region for dimension minecraft:flat
+[12:17:53] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:17:53] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:17:53] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:17:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:17:53] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[12:17:53] [Server thread/INFO]: Time elapsed: 2003 ms
+[12:17:53] [Server thread/INFO]: [WorldGuard] (flat) TNT ignition is PERMITTED.
+[12:17:53] [Server thread/INFO]: [WorldGuard] (flat) Lighters are PERMITTED.
+[12:17:53] [Server thread/INFO]: [WorldGuard] (flat) Lava fire is PERMITTED.
+[12:17:53] [Server thread/INFO]: [WorldGuard] (flat) Fire spread is UNRESTRICTED.
+[12:17:53] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'flat'
+[12:17:53] [Server thread/INFO]: Preparing start region for dimension minecraft:parkour
+[12:17:54] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[12:17:54] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[12:17:54] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[12:17:54] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[12:17:55] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[12:17:55] [Server thread/INFO]: Time elapsed: 2113 ms
+[12:17:55] [Server thread/INFO]: [WorldGuard] (parkour) TNT ignition is PERMITTED.
+[12:17:55] [Server thread/INFO]: [WorldGuard] (parkour) Lighters are PERMITTED.
+[12:17:55] [Server thread/INFO]: [WorldGuard] (parkour) Lava fire is PERMITTED.
+[12:17:55] [Server thread/INFO]: [WorldGuard] (parkour) Fire spread is UNRESTRICTED.
+[12:17:55] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'parkour'
+[12:17:55] [Server thread/INFO]: Preparing start region for dimension minecraft:etclobby
+[12:17:57] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[12:17:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:17:57] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[12:17:57] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[12:17:57] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:17:57] [Server thread/INFO]: Time elapsed: 2218 ms
+[12:17:57] [Server thread/INFO]: [WorldGuard] (etclobby) TNT ignition is PERMITTED.
+[12:17:57] [Server thread/INFO]: [WorldGuard] (etclobby) Lighters are PERMITTED.
+[12:17:57] [Server thread/INFO]: [WorldGuard] (etclobby) Lava fire is PERMITTED.
+[12:17:57] [Server thread/INFO]: [WorldGuard] (etclobby) Fire spread is UNRESTRICTED.
+[12:17:57] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'etclobby'
+[12:17:57] [Server thread/INFO]: [Multiverse-Core] 15 - World(s) loaded.
+[12:17:57] [Server thread/WARN]: [Multiverse-Core] Buscript failed to load! The script command will be disabled! If you would like not to see this message, use `/mv conf enablebuscript false` to disable Buscript from loading.
+[12:17:57] [Server thread/INFO]: [Multiverse-Core] Version 4.3.0-b846 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
+[12:17:57] [Server thread/INFO]: [GoldenCrates] Enabling GoldenCrates v3.11.0
+[12:17:57] [Server thread/INFO]: [GoldenCrates] Powered by: NexEngine
+[12:17:57] [Server thread/INFO]: [GoldenCrates] [Hook] HolographicDisplays: Success!
+[12:17:57] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: goldencrates
+[12:17:57] [Server thread/INFO]: [GoldenCrates] [Hook] PlaceholderAPI: Success!
+[12:17:57] [Server thread/INFO]: [GoldenCrates] Found 0 external module(s).
+[12:17:57] [Server thread/INFO]: [GoldenCrates] Templates Loaded: 6
+[12:17:57] [Server thread/INFO]: [GoldenCrates] Loaded 1 crate keys!
+[12:17:57] [Server thread/INFO]: [GoldenCrates] Crates Loaded: 1
+[12:17:57] [Server thread/INFO]: [GoldenCrates] Menus Loaded: 1
+[12:17:57] [Server thread/INFO]: [GoldenCrates] Plugin loaded in 189 ms!
+[12:17:57] [Server thread/INFO]: [Multiverse-Inventories] Enabling Multiverse-Inventories v4.2.2-b500
+[12:17:58] [Server thread/INFO]: [Multiverse-Inventories 4.2.2-b500] enabled.
+[12:17:58] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.18.2.0
+[12:17:58] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[12:17:58] [Server thread/INFO]: [TAB] Enabling TAB v2.9.2
+[12:17:58] [Server thread/INFO]: [TAB] Server version: 1.17.1 (v1_17_R1)
+[12:17:58] [Server thread/INFO]: [TAB] File plugins\TAB\errors.log exists and is not empty. Take a look at the error messages and try to resolve them. After you do, delete the file.
+[12:17:58] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: tab
+[12:17:58] [Server thread/INFO]: [TAB] There was 1 startup warning.
+[12:17:58] [Server thread/INFO]: [TAB] Enabled in 66ms
+[12:17:58] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v4.2.1-b834
+[12:17:58] [Server thread/INFO]: [Multiverse-Portals] 0 - Portals(s) loaded
+[12:17:58] [Server thread/INFO]: [Multiverse-Portals] Found WorldEdit. Using it for selections.
+[12:17:58] [Server thread/INFO]: [Multiverse-Portals 4.2.1-b834]  Enabled - By Rigby and fernferret
+[12:17:58] [Server thread/INFO]: [SuperVanish] Enabling SuperVanish v6.2.6
+[12:17:58] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: supervanish
+[12:17:58] [Server thread/INFO]: [SuperVanish] Hooked into PlaceholderAPI
+[12:17:58] [Server thread/INFO]: [SuperVanish] Hooked into Citizens
+[12:17:58] [Server thread/INFO]: [SuperVanish] Hooked into Essentials
+[12:17:58] [Server thread/INFO]: [WarpSystem] Enabling WarpSystem v5.0.4-free
+[12:17:58] [Server thread/INFO]:  
+[12:17:58] [Server thread/INFO]: __________________________________________________________
+[12:17:58] [Server thread/INFO]:  
+[12:17:58] [Server thread/INFO]:                        WarpSystem [5.0.4-free]
+[12:17:58] [Server thread/INFO]:  
+[12:17:58] [Server thread/INFO]: Status:
+[12:17:58] [Server thread/INFO]:  
+[12:17:58] [Server thread/INFO]: MC-Version: 1.17.1 (R0.1-SNAPSHOT, PAPER)
+[12:17:58] [Server thread/INFO]:  
+[12:17:58] [Server thread/INFO]: Loading features
+[12:17:58] [Server thread/INFO]:   > Loading Animations
+[12:17:58] [Server thread/INFO]:     ...got 0 animation(s)
+[12:17:58] [Server thread/INFO]:   > Loading Icons
+[12:17:58] [Server thread/INFO]:     > Loading background
+[12:17:58] [Server thread/INFO]:       ...got 1 background
+[12:17:58] [Server thread/INFO]:     > Loading Icons
+[12:17:58] [Server thread/INFO]:       ...got 4 Icons
+[12:17:58] [Server thread/INFO]:   > Loading PlayerWarps [Bungee: false; TimeDependent: true]
+[12:17:58] [Server thread/INFO]:     ...got 6 Class(es)
+[12:17:58] [Server thread/INFO]:     ...got 0 PlayerWarp(s)
+[12:17:58] [Server thread/INFO]:   > Loading Portals
+[12:17:58] [Server thread/INFO]:     ...got 0 Portal(s)
+[12:17:58] [Server thread/INFO]:   > Loading SimpleWarps
+[12:17:58] [Server thread/INFO]:     ...got 4 SimpleWarp(s)
+[12:17:59] [Server thread/INFO]:   > Loading RandomTeleporters
+[12:17:59] [Server thread/INFO]:     ...got 3 WorldOption(s)
+[12:17:59] [Server thread/INFO]:     ...got 0 InteractBlock(s)
+[12:17:59] [Server thread/INFO]:   > Loading WarpSigns
+[12:17:59] [Server thread/INFO]:     ...got 0 WarpSign(s)
+[12:17:59] [Server thread/INFO]:   > Loading Shortcuts
+[12:17:59] [Server thread/INFO]:     ...got 0 Shortcut(s)
+[12:17:59] [Server thread/INFO]:  
+[12:17:59] [Server thread/INFO]: Loading TeleportManager
+[12:17:59] [Server thread/INFO]: Starting AutoSaver
+[12:17:59] [Server thread/INFO]:  
+[12:17:59] [Server thread/INFO]: Finished (445ms)
+[12:17:59] [Server thread/INFO]:  
+[12:17:59] [Server thread/INFO]: __________________________________________________________
+[12:17:59] [Server thread/INFO]:  
+[12:17:59] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: warpsystem
+[12:17:59] [Server thread/INFO]: [DiscordSRV] Enabling DiscordSRV v1.23.0
+[12:17:59] [Server thread/INFO]: [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v4.2.1-b786
+[12:17:59] [Server thread/INFO]: [Multiverse-NetherPortals 4.2.1-b786]  Enabled - By Rigby and fernferret
+[12:17:59] [Server thread/INFO]: [StaffPlus] Enabling StaffPlus v3.3.6.0-RELEASE
+[12:17:59] [Server thread/INFO]: [Staff+] Version protocol set to 'v1_17_R1'.
+[12:17:59] [Server thread/INFO]: [Staff+] Staff+ has been enabled! Initialization took 68ms.
+[12:17:59] [Server thread/INFO]: [Staff+] Plugin created by Shortninja continued by Qball.
+[12:17:59] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[12:17:59] [Server thread/INFO]: Running delayed init tasks
+[12:17:59] [Craft Scheduler Thread - 8/INFO]: [NoCheatPlus] Added hook: AllViolations(NCP) [1.0].
+[12:17:59] [Craft Scheduler Thread - 8/INFO]: [NoCheatPlus] Added hook: ViolationFrequency(NCP) [1.0].
+[12:17:59] [Craft Scheduler Thread - 26/INFO]: [GoldenCrates] Auto-save: Saved 0 online users | 0 offline users.
+[12:17:59] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.17.1 (756)
+[12:17:59] [Server thread/INFO]: [NoCheatPlus] Post-enable running...
+[12:17:59] [Server thread/INFO]: [NoCheatPlus] Post-enable finished.
+[12:17:59] [Server thread/INFO]: No expansions were registered!
+[12:17:59] [Log4j2-TF-1-AsyncLogger[AsyncContext@659e0bfd]-1/INFO]: [DiscordSRV] [JDA] Login Successful!
+[12:18:00] [Craft Scheduler Thread - 7/INFO]: [MiniMOTD] There is an update available for MiniMOTD!
+[12:18:00] [Craft Scheduler Thread - 7/INFO]: [MiniMOTD] This server is running version v2.0.3, which is 1 versions outdated.
+[12:18:00] [Craft Scheduler Thread - 7/INFO]: [MiniMOTD] Download the latest version, v2.0.4 from GitHub at the link below:
+[12:18:00] [Craft Scheduler Thread - 7/INFO]: [MiniMOTD] https://github.com/jpenilla/MiniMOTD/releases/tag/v2.0.4
+[12:18:00] [Craft Scheduler Thread - 5/INFO]: PM | You are using the latest version of PluginManager.
+[12:18:00] [Log4j2-TF-1-AsyncLogger[AsyncContext@659e0bfd]-1/INFO]: [DiscordSRV] [JDA] Connected to WebSocket
+[12:18:00] [Craft Scheduler Thread - 10/INFO]: [ajParkour] An update is available! (2.12.7) Do /ajParkour update to download it!
+[12:18:00] [Craft Scheduler Thread - 16/WARN]: [SpigetUpdate] Invalid SemVer versions specified [3360-RELEASE] [3360]
+[12:18:00] [Craft Scheduler Thread - 16/INFO]: [StaffPlus] You are using the latest version thanks
+[12:18:00] [Server thread/INFO]: [Citizens] Loaded 35 NPCs.
+[12:18:00] [Server thread/INFO]: Multiverse already knows about 'IridiumSkyblock'!
+[12:18:00] [Server thread/INFO]: Success! Property generator was set to IridiumSkyblock
+[12:18:00] [Server thread/INFO]: Multiverse already knows about 'IridiumSkyblock_nether'!
+[12:18:00] [Server thread/INFO]: Success! Property generator was set to IridiumSkyblock
+[12:18:00] [Server thread/INFO]: Multiverse already knows about 'IridiumSkyblock_the_end'!
+[12:18:00] [Server thread/INFO]: Success! Property generator was set to IridiumSkyblock
+[12:18:00] [Log4j2-TF-1-AsyncLogger[AsyncContext@659e0bfd]-1/INFO]: [DiscordSRV] [JDA] Finished Loading!
+[12:18:00] [Server thread/INFO]: [CitizensBooks] Checking for updates...
+[12:18:00] [Server thread/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[12:18:00] [Server thread/INFO]: [HolographicDisplays] Found a new version available: v2.4.9
+[12:18:00] [Server thread/INFO]: [HolographicDisplays] Download it on Bukkit Dev:
+[12:18:00] [Server thread/INFO]: [HolographicDisplays] dev.bukkit.org/projects/holographic-displays
+[12:18:00] [Server thread/WARN]: [IridiumSkyblock] ********************************************************
+[12:18:00] [Server thread/WARN]: [IridiumSkyblock] * There is a new version of IridiumSkyblock available!
+[12:18:00] [Server thread/WARN]: [IridiumSkyblock] *  
+[12:18:00] [Server thread/WARN]: [IridiumSkyblock] * Your version:   3.0.8
+[12:18:00] [Server thread/WARN]: [IridiumSkyblock] * Latest version: 3.0.9
+[12:18:00] [Server thread/WARN]: [IridiumSkyblock] *  
+[12:18:00] [Server thread/WARN]: [IridiumSkyblock] * Please update to the newest version.
+[12:18:00] [Server thread/WARN]: [IridiumSkyblock] *  
+[12:18:00] [Server thread/WARN]: [IridiumSkyblock] * Download:
+[12:18:00] [Server thread/WARN]: [IridiumSkyblock] *   https://www.spigotmc.org/resources/62480
+[12:18:00] [Server thread/WARN]: [IridiumSkyblock] ********************************************************
+[12:18:00] [Server thread/INFO]: Done (70.313s)! For help, type "help"
+[12:18:00] [Server thread/INFO]: Timings Reset
+[12:18:00] [Craft Scheduler Thread - 16/INFO]: [Vault] Checking for Updates ... 
+[12:18:00] [Craft Scheduler Thread - 16/INFO]: [Vault] No new version available
+[12:18:00] [DiscordSRV - Initialization/ERROR]: [DiscordSRV] The bot is not a part of any Discord servers. Follow the installation instructions
+[12:18:01] [DiscordSRV - Initialization/ERROR]: [DiscordSRV] https://discord.com/oauth2/authorize?scope=bot&client_id=865814488308777000&permissions=8
+[12:18:01] [Server thread/INFO]: [CitizensBooks] An update for CitizensBooks (v2.6.6) is available at:
+[12:18:01] [Server thread/INFO]: [CitizensBooks] https://www.spigotmc.org/resources/citizensbooks.37465/
+[12:18:01] [Server thread/INFO]: [CitizensText] 2 texts loadeds
+[12:18:01] [pool-121-thread-1/INFO]: [DiscordSRV] DiscordSRV is up-to-date. (ae26c8fa7a85120ccb1cf9bc46d8de316c1a5db8)
+[12:18:02] [Server thread/INFO]: [OB] WORLD INITIALIZATION ERROR! world = null
+[12:18:02] [Server thread/INFO]: [OB] Trying to initialize the world again...
+[12:18:02] [Craft Scheduler Thread - 10/INFO]: [PrefiX] ------------------------------------------------
+[12:18:02] [Craft Scheduler Thread - 10/INFO]: [PrefiX] A new version of Prefix is available.
+[12:18:02] [Craft Scheduler Thread - 10/INFO]: [PrefiX] New version: 4.7. Current version: 4.6.
+[12:18:02] [Craft Scheduler Thread - 10/INFO]: [PrefiX] URL: https://www.spigotmc.org/resources/prefix.70359/
+[12:18:02] [Craft Scheduler Thread - 10/INFO]: [PrefiX] ------------------------------------------------
+[12:18:02] [Server thread/INFO]: [OB] The initialization of the world was successful!
+[12:18:21] [Server thread/INFO]: Plugins (44): ajParkour, ArmorStandTools, BookNews, Citizens, CitizensBooks, CitizensText, ClearLag, DeluxeHub, DiscordSRV, Essentials, EssentialsChat, Geyser-Spigot, GoldenCrates, HolographicDisplays, ImageMaps, IridiumSkyblock, LuckPerms, MiniMOTD, Multiverse-Core, Multiverse-Inventories, Multiverse-NetherPortals, Multiverse-Portals, NexEngine, NoCheatPlus, Oneblock, OpenInv, PlaceholderAPI, PlayerHeads, PluginConstructorAPI, PluginManager*, PrefiX, ProtocolLib, Sentinel, StaffPlus, SuperVanish, TAB, Vault, Vehicles, ViaBackwards, ViaVersion, VoidGen, WarpSystem, WorldEdit, WorldGuard
+[12:19:40] [User Authenticator #1/INFO]: UUID of player ItzAnu_ is 0a1a720b-311f-3fd9-9d73-75a754fc81cf
+[12:19:40] [Server thread/INFO]: Player has true
+[12:19:40] [Server thread/INFO]: + ItzAnu_ Connected
+[12:19:40] [Server thread/INFO]: ItzAnu_[/127.0.0.1:54416] logged in with entity id 601 at ([skyblocj]46.311834219819104, 86.0, 22.51779386788147)
+[12:19:56] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "java.lang.reflect.Constructor.newInstance(Object[])" because "es.pollitoyeye.vehicles.utils.EntityUtils.axisAlignedBBConstructor" is null
+[12:19:56] [Server thread/WARN]: 	at es.pollitoyeye.vehicles.utils.EntityUtils.setBoundingBox(EntityUtils.java:527)
+[12:19:56] [Server thread/WARN]: 	at es.pollitoyeye.vehicles.vehicle.RacingCar.<init>(RacingCar.java:49)
+[12:19:56] [Server thread/WARN]: 	at es.pollitoyeye.vehicles.listeners.EventListener.onInteractVehicle(EventListener.java:1279)
+[12:19:56] [Server thread/WARN]: 	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor74.execute(Unknown Source)
+[12:19:56] [Server thread/WARN]: 	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:69)
+[12:19:56] [Server thread/WARN]: 	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80)
+[12:19:56] [Server thread/WARN]: 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[12:19:56] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:624)
+[12:19:56] [Server thread/WARN]: 	at net.minecraft.server.network.PlayerConnection$5.a(PlayerConnection.java:2335)
+[12:19:56] [Server thread/WARN]: 	at net.minecraft.server.network.PlayerConnection$5.a(PlayerConnection.java:2390)
+[12:19:56] [Server thread/WARN]: 	at net.minecraft.network.protocol.game.PacketPlayInUseEntity$e.a(PacketPlayInUseEntity.java:161)
+[12:19:56] [Server thread/WARN]: 	at net.minecraft.network.protocol.game.PacketPlayInUseEntity.a(PacketPlayInUseEntity.java:80)
+[12:19:56] [Server thread/WARN]: 	at net.minecraft.server.network.PlayerConnection.a(PlayerConnection.java:2327)
+[12:19:56] [Server thread/WARN]: 	at net.minecraft.network.protocol.game.PacketPlayInUseEntity.a(PacketPlayInUseEntity.java:67)
+[12:19:56] [Server thread/WARN]: 	at net.minecraft.network.protocol.game.PacketPlayInUseEntity.a(PacketPlayInUseEntity.java:12)
+[12:19:56] [Server thread/WARN]: 	at net.minecraft.network.protocol.PlayerConnectionUtils.lambda$ensureRunningOnSameThread$1(PlayerConnectionUtils.java:36)
+[12:19:56] [Server thread/WARN]: 	at net.minecraft.server.TickTask.run(TickTask.java:18)
+[12:19:56] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandler.executeTask(IAsyncTaskHandler.java:149)
+[12:19:56] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandlerReentrant.executeTask(IAsyncTaskHandlerReentrant.java:23)
+[12:19:56] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:1348)
+[12:19:56] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:190)
+[12:19:56] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandler.executeNext(IAsyncTaskHandler.java:122)
+[12:19:56] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.bf(MinecraftServer.java:1327)
+[12:19:56] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.executeNext(MinecraftServer.java:1320)
+[12:19:56] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandler.awaitTasks(IAsyncTaskHandler.java:132)
+[12:19:56] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.sleepForTick(MinecraftServer.java:1281)
+[12:19:56] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1192)
+[12:19:56] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316)
+[12:19:56] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:831)
+[12:20:16] [Server thread/INFO]: ItzAnu_ issued server command: /gamemode creative
+[12:20:21] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "java.lang.reflect.Constructor.newInstance(Object[])" because "es.pollitoyeye.vehicles.utils.EntityUtils.axisAlignedBBConstructor" is null
+[12:20:21] [Server thread/WARN]: 	at es.pollitoyeye.vehicles.utils.EntityUtils.setBoundingBox(EntityUtils.java:527)
+[12:20:21] [Server thread/WARN]: 	at es.pollitoyeye.vehicles.vehicle.RacingCar.<init>(RacingCar.java:49)
+[12:20:21] [Server thread/WARN]: 	at es.pollitoyeye.vehicles.listeners.EventListener.onInteractVehicle(EventListener.java:1279)
+[12:20:21] [Server thread/WARN]: 	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor74.execute(Unknown Source)
+[12:20:21] [Server thread/WARN]: 	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:69)
+[12:20:21] [Server thread/WARN]: 	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80)
+[12:20:21] [Server thread/WARN]: 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[12:20:21] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:624)
+[12:20:21] [Server thread/WARN]: 	at net.minecraft.server.network.PlayerConnection$5.a(PlayerConnection.java:2335)
+[12:20:21] [Server thread/WARN]: 	at net.minecraft.server.network.PlayerConnection$5.a(PlayerConnection.java:2390)
+[12:20:21] [Server thread/WARN]: 	at net.minecraft.network.protocol.game.PacketPlayInUseEntity$e.a(PacketPlayInUseEntity.java:161)
+[12:20:21] [Server thread/WARN]: 	at net.minecraft.network.protocol.game.PacketPlayInUseEntity.a(PacketPlayInUseEntity.java:80)
+[12:20:21] [Server thread/WARN]: 	at net.minecraft.server.network.PlayerConnection.a(PlayerConnection.java:2327)
+[12:20:21] [Server thread/WARN]: 	at net.minecraft.network.protocol.game.PacketPlayInUseEntity.a(PacketPlayInUseEntity.java:67)
+[12:20:21] [Server thread/WARN]: 	at net.minecraft.network.protocol.game.PacketPlayInUseEntity.a(PacketPlayInUseEntity.java:12)
+[12:20:21] [Server thread/WARN]: 	at net.minecraft.network.protocol.PlayerConnectionUtils.lambda$ensureRunningOnSameThread$1(PlayerConnectionUtils.java:36)
+[12:20:21] [Server thread/WARN]: 	at net.minecraft.server.TickTask.run(TickTask.java:18)
+[12:20:21] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandler.executeTask(IAsyncTaskHandler.java:149)
+[12:20:21] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandlerReentrant.executeTask(IAsyncTaskHandlerReentrant.java:23)
+[12:20:21] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:1348)
+[12:20:21] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:190)
+[12:20:21] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandler.executeNext(IAsyncTaskHandler.java:122)
+[12:20:21] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.bf(MinecraftServer.java:1327)
+[12:20:21] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.executeNext(MinecraftServer.java:1320)
+[12:20:21] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandler.awaitTasks(IAsyncTaskHandler.java:132)
+[12:20:21] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.sleepForTick(MinecraftServer.java:1281)
+[12:20:21] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1192)
+[12:20:21] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316)
+[12:20:21] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:831)
+[12:20:58] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "java.lang.reflect.Constructor.newInstance(Object[])" because "es.pollitoyeye.vehicles.utils.EntityUtils.axisAlignedBBConstructor" is null
+[12:20:58] [Server thread/WARN]: 	at es.pollitoyeye.vehicles.utils.EntityUtils.setBoundingBox(EntityUtils.java:527)
+[12:20:58] [Server thread/WARN]: 	at es.pollitoyeye.vehicles.vehicle.RacingCar.<init>(RacingCar.java:49)
+[12:20:58] [Server thread/WARN]: 	at es.pollitoyeye.vehicles.listeners.EventListener.onInteractVehicle(EventListener.java:1279)
+[12:20:58] [Server thread/WARN]: 	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor74.execute(Unknown Source)
+[12:20:58] [Server thread/WARN]: 	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:69)
+[12:20:58] [Server thread/WARN]: 	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80)
+[12:20:58] [Server thread/WARN]: 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[12:20:58] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:624)
+[12:20:58] [Server thread/WARN]: 	at net.minecraft.server.network.PlayerConnection$5.a(PlayerConnection.java:2335)
+[12:20:58] [Server thread/WARN]: 	at net.minecraft.server.network.PlayerConnection$5.a(PlayerConnection.java:2390)
+[12:20:58] [Server thread/WARN]: 	at net.minecraft.network.protocol.game.PacketPlayInUseEntity$e.a(PacketPlayInUseEntity.java:161)
+[12:20:58] [Server thread/WARN]: 	at net.minecraft.network.protocol.game.PacketPlayInUseEntity.a(PacketPlayInUseEntity.java:80)
+[12:20:58] [Server thread/WARN]: 	at net.minecraft.server.network.PlayerConnection.a(PlayerConnection.java:2327)
+[12:20:58] [Server thread/WARN]: 	at net.minecraft.network.protocol.game.PacketPlayInUseEntity.a(PacketPlayInUseEntity.java:67)
+[12:20:58] [Server thread/WARN]: 	at net.minecraft.network.protocol.game.PacketPlayInUseEntity.a(PacketPlayInUseEntity.java:12)
+[12:20:58] [Server thread/WARN]: 	at net.minecraft.network.protocol.PlayerConnectionUtils.lambda$ensureRunningOnSameThread$1(PlayerConnectionUtils.java:36)
+[12:20:58] [Server thread/WARN]: 	at net.minecraft.server.TickTask.run(TickTask.java:18)
+[12:20:58] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandler.executeTask(IAsyncTaskHandler.java:149)
+[12:20:58] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandlerReentrant.executeTask(IAsyncTaskHandlerReentrant.java:23)
+[12:20:58] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:1348)
+[12:20:58] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:190)
+[12:20:58] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandler.executeNext(IAsyncTaskHandler.java:122)
+[12:20:58] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.bf(MinecraftServer.java:1327)
+[12:20:58] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.executeNext(MinecraftServer.java:1320)
+[12:20:58] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandler.awaitTasks(IAsyncTaskHandler.java:132)
+[12:20:58] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.sleepForTick(MinecraftServer.java:1281)
+[12:20:58] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1192)
+[12:20:58] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316)
+[12:20:58] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:831)
+[12:21:05] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "java.lang.reflect.Constructor.newInstance(Object[])" because "es.pollitoyeye.vehicles.utils.EntityUtils.axisAlignedBBConstructor" is null
+[12:21:05] [Server thread/WARN]: 	at es.pollitoyeye.vehicles.utils.EntityUtils.setBoundingBox(EntityUtils.java:527)
+[12:21:05] [Server thread/WARN]: 	at es.pollitoyeye.vehicles.vehicle.RacingCar.<init>(RacingCar.java:49)
+[12:21:05] [Server thread/WARN]: 	at es.pollitoyeye.vehicles.listeners.EventListener.onInteractVehicle(EventListener.java:1279)
+[12:21:05] [Server thread/WARN]: 	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor74.execute(Unknown Source)
+[12:21:05] [Server thread/WARN]: 	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:69)
+[12:21:05] [Server thread/WARN]: 	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80)
+[12:21:05] [Server thread/WARN]: 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[12:21:05] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:624)
+[12:21:05] [Server thread/WARN]: 	at net.minecraft.server.network.PlayerConnection$5.a(PlayerConnection.java:2335)
+[12:21:05] [Server thread/WARN]: 	at net.minecraft.server.network.PlayerConnection$5.a(PlayerConnection.java:2390)
+[12:21:05] [Server thread/WARN]: 	at net.minecraft.network.protocol.game.PacketPlayInUseEntity$e.a(PacketPlayInUseEntity.java:161)
+[12:21:05] [Server thread/WARN]: 	at net.minecraft.network.protocol.game.PacketPlayInUseEntity.a(PacketPlayInUseEntity.java:80)
+[12:21:05] [Server thread/WARN]: 	at net.minecraft.server.network.PlayerConnection.a(PlayerConnection.java:2327)
+[12:21:05] [Server thread/WARN]: 	at net.minecraft.network.protocol.game.PacketPlayInUseEntity.a(PacketPlayInUseEntity.java:67)
+[12:21:05] [Server thread/WARN]: 	at net.minecraft.network.protocol.game.PacketPlayInUseEntity.a(PacketPlayInUseEntity.java:12)
+[12:21:05] [Server thread/WARN]: 	at net.minecraft.network.protocol.PlayerConnectionUtils.lambda$ensureRunningOnSameThread$1(PlayerConnectionUtils.java:36)
+[12:21:05] [Server thread/WARN]: 	at net.minecraft.server.TickTask.run(TickTask.java:18)
+[12:21:05] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandler.executeTask(IAsyncTaskHandler.java:149)
+[12:21:05] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandlerReentrant.executeTask(IAsyncTaskHandlerReentrant.java:23)
+[12:21:05] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:1348)
+[12:21:05] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:190)
+[12:21:05] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandler.executeNext(IAsyncTaskHandler.java:122)
+[12:21:05] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.bf(MinecraftServer.java:1327)
+[12:21:05] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.executeNext(MinecraftServer.java:1320)
+[12:21:05] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandler.awaitTasks(IAsyncTaskHandler.java:132)
+[12:21:05] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.sleepForTick(MinecraftServer.java:1281)
+[12:21:05] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1192)
+[12:21:05] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316)
+[12:21:05] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:831)
+[12:21:11] [Server thread/INFO]: ItzAnu_ issued server command: /vehicleclear
+[12:21:14] [Server thread/INFO]: ItzAnu_ issued server command: /vehicleclear 5
+[12:23:53] [Server thread/INFO]: ItzAnu_ issued server command: /is create
+[12:25:59] [Server thread/INFO]: ItzAnu_ issued server command: /lobby
+[12:27:04] [Server thread/INFO]: ItzAnu_ issued server command: /mv import airport normal
+[12:27:04] [Server thread/INFO]: ItzAnu_: Starting import of world 'airport'...
+[12:27:04] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'airport' - Env: NORMAL - Type: null
+[12:27:04] [Server thread/INFO]: Preparing start region for dimension minecraft:airport
+[12:27:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:27:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:27:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:27:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:27:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:27:07] [Server thread/INFO]: Time elapsed: 2338 ms
+[12:27:07] [Server thread/INFO]: [WorldGuard] Default configuration file written: config_world.yml
+[12:27:07] [Server thread/INFO]: [WorldGuard] Default configuration file written: blacklist.txt
+[12:27:07] [Server thread/INFO]: [WorldGuard] (airport) TNT ignition is PERMITTED.
+[12:27:07] [Server thread/INFO]: [WorldGuard] (airport) Lighters are PERMITTED.
+[12:27:07] [Server thread/INFO]: [WorldGuard] (airport) Lava fire is PERMITTED.
+[12:27:07] [Server thread/INFO]: [WorldGuard] (airport) Fire spread is UNRESTRICTED.
+[12:27:07] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'airport'
+[12:27:08] [Server thread/INFO]: ItzAnu_: Complete!
+[12:27:16] [Server thread/INFO]: ItzAnu_ issued server command: /mvtp airport
+[12:27:17] [Server thread/INFO]: ItzAnu_ issued server command: /gamemode creative
+[12:27:50] [Server thread/INFO]: ItzAnu_ issued server command: /vehicles:getplane
+[12:27:53] [Server thread/INFO]: ItzAnu_ issued server command: /vehicles:getplane
+[12:27:59] [Server thread/INFO]: ItzAnu_ issued server command: /planelist
+[12:28:03] [Server thread/INFO]: ItzAnu_ issued server command: /planeshop
+[12:28:09] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "java.lang.reflect.Constructor.newInstance(Object[])" because "es.pollitoyeye.vehicles.utils.EntityUtils.axisAlignedBBConstructor" is null
+[12:28:09] [Server thread/WARN]: 	at es.pollitoyeye.vehicles.utils.EntityUtils.setBoundingBox(EntityUtils.java:527)
+[12:28:09] [Server thread/WARN]: 	at es.pollitoyeye.vehicles.vehicle.Plane.<init>(Plane.java:59)
+[12:28:09] [Server thread/WARN]: 	at es.pollitoyeye.vehicles.listeners.EventListener.onInteractVehicle(EventListener.java:1246)
+[12:28:09] [Server thread/WARN]: 	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor74.execute(Unknown Source)
+[12:28:09] [Server thread/WARN]: 	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:69)
+[12:28:09] [Server thread/WARN]: 	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80)
+[12:28:09] [Server thread/WARN]: 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[12:28:09] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:624)
+[12:28:09] [Server thread/WARN]: 	at net.minecraft.server.network.PlayerConnection$5.a(PlayerConnection.java:2335)
+[12:28:09] [Server thread/WARN]: 	at net.minecraft.server.network.PlayerConnection$5.a(PlayerConnection.java:2390)
+[12:28:09] [Server thread/WARN]: 	at net.minecraft.network.protocol.game.PacketPlayInUseEntity$e.a(PacketPlayInUseEntity.java:161)
+[12:28:09] [Server thread/WARN]: 	at net.minecraft.network.protocol.game.PacketPlayInUseEntity.a(PacketPlayInUseEntity.java:80)
+[12:28:09] [Server thread/WARN]: 	at net.minecraft.server.network.PlayerConnection.a(PlayerConnection.java:2327)
+[12:28:09] [Server thread/WARN]: 	at net.minecraft.network.protocol.game.PacketPlayInUseEntity.a(PacketPlayInUseEntity.java:67)
+[12:28:09] [Server thread/WARN]: 	at net.minecraft.network.protocol.game.PacketPlayInUseEntity.a(PacketPlayInUseEntity.java:12)
+[12:28:09] [Server thread/WARN]: 	at net.minecraft.network.protocol.PlayerConnectionUtils.lambda$ensureRunningOnSameThread$1(PlayerConnectionUtils.java:36)
+[12:28:09] [Server thread/WARN]: 	at net.minecraft.server.TickTask.run(TickTask.java:18)
+[12:28:09] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandler.executeTask(IAsyncTaskHandler.java:149)
+[12:28:09] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandlerReentrant.executeTask(IAsyncTaskHandlerReentrant.java:23)
+[12:28:09] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:1348)
+[12:28:09] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:190)
+[12:28:09] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandler.executeNext(IAsyncTaskHandler.java:122)
+[12:28:09] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.bf(MinecraftServer.java:1327)
+[12:28:09] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.executeNext(MinecraftServer.java:1320)
+[12:28:09] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandler.awaitTasks(IAsyncTaskHandler.java:132)
+[12:28:09] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1397)
+[12:28:09] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1188)
+[12:28:09] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316)
+[12:28:09] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:831)
+[12:28:30] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "java.lang.reflect.Constructor.newInstance(Object[])" because "es.pollitoyeye.vehicles.utils.EntityUtils.axisAlignedBBConstructor" is null
+[12:28:30] [Server thread/WARN]: 	at es.pollitoyeye.vehicles.utils.EntityUtils.setBoundingBox(EntityUtils.java:527)
+[12:28:30] [Server thread/WARN]: 	at es.pollitoyeye.vehicles.vehicle.Plane.<init>(Plane.java:59)
+[12:28:30] [Server thread/WARN]: 	at es.pollitoyeye.vehicles.listeners.EventListener.onInteractVehicle(EventListener.java:1246)
+[12:28:30] [Server thread/WARN]: 	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor74.execute(Unknown Source)
+[12:28:30] [Server thread/WARN]: 	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:69)
+[12:28:30] [Server thread/WARN]: 	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80)
+[12:28:30] [Server thread/WARN]: 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[12:28:30] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:624)
+[12:28:30] [Server thread/WARN]: 	at net.minecraft.server.network.PlayerConnection$5.a(PlayerConnection.java:2335)
+[12:28:30] [Server thread/WARN]: 	at net.minecraft.server.network.PlayerConnection$5.a(PlayerConnection.java:2390)
+[12:28:30] [Server thread/WARN]: 	at net.minecraft.network.protocol.game.PacketPlayInUseEntity$e.a(PacketPlayInUseEntity.java:161)
+[12:28:30] [Server thread/WARN]: 	at net.minecraft.network.protocol.game.PacketPlayInUseEntity.a(PacketPlayInUseEntity.java:80)
+[12:28:30] [Server thread/WARN]: 	at net.minecraft.server.network.PlayerConnection.a(PlayerConnection.java:2327)
+[12:28:30] [Server thread/WARN]: 	at net.minecraft.network.protocol.game.PacketPlayInUseEntity.a(PacketPlayInUseEntity.java:67)
+[12:28:30] [Server thread/WARN]: 	at net.minecraft.network.protocol.game.PacketPlayInUseEntity.a(PacketPlayInUseEntity.java:12)
+[12:28:30] [Server thread/WARN]: 	at net.minecraft.network.protocol.PlayerConnectionUtils.lambda$ensureRunningOnSameThread$1(PlayerConnectionUtils.java:36)
+[12:28:30] [Server thread/WARN]: 	at net.minecraft.server.TickTask.run(TickTask.java:18)
+[12:28:30] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandler.executeTask(IAsyncTaskHandler.java:149)
+[12:28:30] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandlerReentrant.executeTask(IAsyncTaskHandlerReentrant.java:23)
+[12:28:30] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:1348)
+[12:28:30] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:190)
+[12:28:30] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandler.executeNext(IAsyncTaskHandler.java:122)
+[12:28:30] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.bf(MinecraftServer.java:1327)
+[12:28:30] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.executeNext(MinecraftServer.java:1320)
+[12:28:30] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandler.awaitTasks(IAsyncTaskHandler.java:132)
+[12:28:30] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1397)
+[12:28:30] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1188)
+[12:28:30] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316)
+[12:28:30] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:831)
+[12:28:37] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "java.lang.reflect.Constructor.newInstance(Object[])" because "es.pollitoyeye.vehicles.utils.EntityUtils.axisAlignedBBConstructor" is null
+[12:28:37] [Server thread/WARN]: 	at es.pollitoyeye.vehicles.utils.EntityUtils.setBoundingBox(EntityUtils.java:527)
+[12:28:37] [Server thread/WARN]: 	at es.pollitoyeye.vehicles.vehicle.Plane.<init>(Plane.java:59)
+[12:28:37] [Server thread/WARN]: 	at es.pollitoyeye.vehicles.listeners.EventListener.onInteractVehicle(EventListener.java:1246)
+[12:28:37] [Server thread/WARN]: 	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor74.execute(Unknown Source)
+[12:28:37] [Server thread/WARN]: 	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:69)
+[12:28:37] [Server thread/WARN]: 	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80)
+[12:28:37] [Server thread/WARN]: 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[12:28:37] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:624)
+[12:28:37] [Server thread/WARN]: 	at net.minecraft.server.network.PlayerConnection$5.a(PlayerConnection.java:2335)
+[12:28:37] [Server thread/WARN]: 	at net.minecraft.server.network.PlayerConnection$5.a(PlayerConnection.java:2390)
+[12:28:37] [Server thread/WARN]: 	at net.minecraft.network.protocol.game.PacketPlayInUseEntity$e.a(PacketPlayInUseEntity.java:161)
+[12:28:37] [Server thread/WARN]: 	at net.minecraft.network.protocol.game.PacketPlayInUseEntity.a(PacketPlayInUseEntity.java:80)
+[12:28:37] [Server thread/WARN]: 	at net.minecraft.server.network.PlayerConnection.a(PlayerConnection.java:2327)
+[12:28:37] [Server thread/WARN]: 	at net.minecraft.network.protocol.game.PacketPlayInUseEntity.a(PacketPlayInUseEntity.java:67)
+[12:28:37] [Server thread/WARN]: 	at net.minecraft.network.protocol.game.PacketPlayInUseEntity.a(PacketPlayInUseEntity.java:12)
+[12:28:37] [Server thread/WARN]: 	at net.minecraft.network.protocol.PlayerConnectionUtils.lambda$ensureRunningOnSameThread$1(PlayerConnectionUtils.java:36)
+[12:28:37] [Server thread/WARN]: 	at net.minecraft.server.TickTask.run(TickTask.java:18)
+[12:28:37] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandler.executeTask(IAsyncTaskHandler.java:149)
+[12:28:37] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandlerReentrant.executeTask(IAsyncTaskHandlerReentrant.java:23)
+[12:28:37] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:1348)
+[12:28:37] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:190)
+[12:28:37] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandler.executeNext(IAsyncTaskHandler.java:122)
+[12:28:37] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.bf(MinecraftServer.java:1327)
+[12:28:37] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.executeNext(MinecraftServer.java:1320)
+[12:28:37] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandler.awaitTasks(IAsyncTaskHandler.java:132)
+[12:28:37] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1397)
+[12:28:37] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1188)
+[12:28:37] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316)
+[12:28:37] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:831)
+[12:29:42] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "java.lang.reflect.Constructor.newInstance(Object[])" because "es.pollitoyeye.vehicles.utils.EntityUtils.axisAlignedBBConstructor" is null
+[12:29:42] [Server thread/WARN]: 	at es.pollitoyeye.vehicles.utils.EntityUtils.setBoundingBox(EntityUtils.java:527)
+[12:29:42] [Server thread/WARN]: 	at es.pollitoyeye.vehicles.vehicle.Plane.<init>(Plane.java:59)
+[12:29:42] [Server thread/WARN]: 	at es.pollitoyeye.vehicles.listeners.EventListener.onInteractVehicle(EventListener.java:1246)
+[12:29:42] [Server thread/WARN]: 	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor74.execute(Unknown Source)
+[12:29:42] [Server thread/WARN]: 	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:69)
+[12:29:42] [Server thread/WARN]: 	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80)
+[12:29:42] [Server thread/WARN]: 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[12:29:42] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:624)
+[12:29:42] [Server thread/WARN]: 	at net.minecraft.server.network.PlayerConnection$5.a(PlayerConnection.java:2335)
+[12:29:42] [Server thread/WARN]: 	at net.minecraft.server.network.PlayerConnection$5.a(PlayerConnection.java:2390)
+[12:29:42] [Server thread/WARN]: 	at net.minecraft.network.protocol.game.PacketPlayInUseEntity$e.a(PacketPlayInUseEntity.java:161)
+[12:29:42] [Server thread/WARN]: 	at net.minecraft.network.protocol.game.PacketPlayInUseEntity.a(PacketPlayInUseEntity.java:80)
+[12:29:42] [Server thread/WARN]: 	at net.minecraft.server.network.PlayerConnection.a(PlayerConnection.java:2327)
+[12:29:42] [Server thread/WARN]: 	at net.minecraft.network.protocol.game.PacketPlayInUseEntity.a(PacketPlayInUseEntity.java:67)
+[12:29:42] [Server thread/WARN]: 	at net.minecraft.network.protocol.game.PacketPlayInUseEntity.a(PacketPlayInUseEntity.java:12)
+[12:29:42] [Server thread/WARN]: 	at net.minecraft.network.protocol.PlayerConnectionUtils.lambda$ensureRunningOnSameThread$1(PlayerConnectionUtils.java:36)
+[12:29:42] [Server thread/WARN]: 	at net.minecraft.server.TickTask.run(TickTask.java:18)
+[12:29:42] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandler.executeTask(IAsyncTaskHandler.java:149)
+[12:29:42] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandlerReentrant.executeTask(IAsyncTaskHandlerReentrant.java:23)
+[12:29:42] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:1348)
+[12:29:42] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:190)
+[12:29:42] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandler.executeNext(IAsyncTaskHandler.java:122)
+[12:29:42] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.bf(MinecraftServer.java:1327)
+[12:29:42] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.executeNext(MinecraftServer.java:1320)
+[12:29:42] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandler.awaitTasks(IAsyncTaskHandler.java:132)
+[12:29:42] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.sleepForTick(MinecraftServer.java:1281)
+[12:29:42] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1192)
+[12:29:42] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316)
+[12:29:42] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:831)
+[12:29:54] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "java.lang.reflect.Constructor.newInstance(Object[])" because "es.pollitoyeye.vehicles.utils.EntityUtils.axisAlignedBBConstructor" is null
+[12:29:54] [Server thread/WARN]: 	at es.pollitoyeye.vehicles.utils.EntityUtils.setBoundingBox(EntityUtils.java:527)
+[12:29:54] [Server thread/WARN]: 	at es.pollitoyeye.vehicles.vehicle.Plane.<init>(Plane.java:59)
+[12:29:54] [Server thread/WARN]: 	at es.pollitoyeye.vehicles.listeners.EventListener.onInteractVehicle(EventListener.java:1246)
+[12:29:54] [Server thread/WARN]: 	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor74.execute(Unknown Source)
+[12:29:54] [Server thread/WARN]: 	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:69)
+[12:29:54] [Server thread/WARN]: 	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80)
+[12:29:54] [Server thread/WARN]: 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[12:29:54] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:624)
+[12:29:54] [Server thread/WARN]: 	at net.minecraft.server.network.PlayerConnection$5.a(PlayerConnection.java:2335)
+[12:29:54] [Server thread/WARN]: 	at net.minecraft.server.network.PlayerConnection$5.a(PlayerConnection.java:2390)
+[12:29:54] [Server thread/WARN]: 	at net.minecraft.network.protocol.game.PacketPlayInUseEntity$e.a(PacketPlayInUseEntity.java:161)
+[12:29:54] [Server thread/WARN]: 	at net.minecraft.network.protocol.game.PacketPlayInUseEntity.a(PacketPlayInUseEntity.java:80)
+[12:29:54] [Server thread/WARN]: 	at net.minecraft.server.network.PlayerConnection.a(PlayerConnection.java:2327)
+[12:29:54] [Server thread/WARN]: 	at net.minecraft.network.protocol.game.PacketPlayInUseEntity.a(PacketPlayInUseEntity.java:67)
+[12:29:54] [Server thread/WARN]: 	at net.minecraft.network.protocol.game.PacketPlayInUseEntity.a(PacketPlayInUseEntity.java:12)
+[12:29:54] [Server thread/WARN]: 	at net.minecraft.network.protocol.PlayerConnectionUtils.lambda$ensureRunningOnSameThread$1(PlayerConnectionUtils.java:36)
+[12:29:54] [Server thread/WARN]: 	at net.minecraft.server.TickTask.run(TickTask.java:18)
+[12:29:54] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandler.executeTask(IAsyncTaskHandler.java:149)
+[12:29:54] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandlerReentrant.executeTask(IAsyncTaskHandlerReentrant.java:23)
+[12:29:54] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:1348)
+[12:29:54] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:190)
+[12:29:54] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandler.executeNext(IAsyncTaskHandler.java:122)
+[12:29:54] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.bf(MinecraftServer.java:1327)
+[12:29:54] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.executeNext(MinecraftServer.java:1320)
+[12:29:54] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandler.awaitTasks(IAsyncTaskHandler.java:132)
+[12:29:54] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.sleepForTick(MinecraftServer.java:1281)
+[12:29:54] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1192)
+[12:29:54] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316)
+[12:29:54] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:831)
+[12:31:10] [Server thread/INFO]: ItzAnu_ issued server command: //replacenear 100000 blackstone_stairs gravel
+[12:31:20] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-102 (MC: 1.17.1) ---
+[12:31:20] [Paper Watchdog Thread/ERROR]: The server has not responded for 10 seconds! Creating thread dump
+[12:31:20] [Paper Watchdog Thread/ERROR]: ------------------------------
+[12:31:20] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[12:31:20] [Paper Watchdog Thread/ERROR]: ------------------------------
+[12:31:20] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[12:31:20] [Paper Watchdog Thread/ERROR]: 	PID: 31 | Suspended: false | Native: false | State: RUNNABLE
+[12:31:20] [Paper Watchdog Thread/ERROR]: 	Stack:
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ChunkMap.getChunkRangeFuture(ChunkMap.java:803)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ChunkMap.scheduleChunkGeneration(ChunkMap.java:1288)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ChunkMap.schedule(ChunkMap.java:1195)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ChunkHolder.getOrScheduleFuture(ChunkHolder.java:547)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ChunkMap.schedule(ChunkMap.java:1185)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ChunkHolder.getOrScheduleFuture(ChunkHolder.java:547)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ChunkMap.schedule(ChunkMap.java:1185)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ChunkHolder.getOrScheduleFuture(ChunkHolder.java:547)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ChunkMap.schedule(ChunkMap.java:1185)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ChunkHolder.getOrScheduleFuture(ChunkHolder.java:547)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ChunkMap.getChunkRangeFuture(ChunkMap.java:803)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ChunkMap.scheduleChunkGeneration(ChunkMap.java:1288)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ChunkMap.schedule(ChunkMap.java:1195)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ChunkHolder.getOrScheduleFuture(ChunkHolder.java:547)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ChunkMap.getChunkRangeFuture(ChunkMap.java:803)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ChunkMap.scheduleChunkGeneration(ChunkMap.java:1288)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ChunkMap.schedule(ChunkMap.java:1195)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ChunkHolder.getOrScheduleFuture(ChunkHolder.java:547)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ChunkMap.schedule(ChunkMap.java:1185)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ChunkHolder.getOrScheduleFuture(ChunkHolder.java:547)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ChunkMap.schedule(ChunkMap.java:1185)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ChunkHolder.getOrScheduleFuture(ChunkHolder.java:547)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ChunkMap.schedule(ChunkMap.java:1185)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ChunkHolder.getOrScheduleFuture(ChunkHolder.java:547)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ChunkMap.getChunkRangeFuture(ChunkMap.java:803)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ChunkMap.prepareAccessibleChunk(ChunkMap.java:1480)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ChunkHolder.updateFutures(ChunkHolder.java:681)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.DistanceManager.runAllUpdates(DistanceManager.java:130)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ServerChunkCache.runDistanceManagerUpdates(ServerChunkCache.java:666)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.DistanceManager.addPriorityTicket(DistanceManager.java:344)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.DistanceManager.markUrgent(DistanceManager.java:271)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ServerChunkCache.getChunkFutureMainThread(ServerChunkCache.java:593)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ServerChunkCache.getChunk(ServerChunkCache.java:502)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.world.level.Level.getChunk(Level.java:426)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.world.level.Level.getBlockState(Level.java:765)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.v1_17_R1.block.CraftBlock.getNMS(CraftBlock.java:79)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.v1_17_R1.block.CraftBlock.getBlockData(CraftBlock.java:162)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.bukkit.BukkitWorld.getBlock(BukkitWorld.java:457)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.EditSession.getBlock(EditSession.java:681)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.session.request.RequestExtent.getBlock(RequestExtent.java:79)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.function.mask.BlockMask.test(BlockMask.java:98)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.function.RegionMaskingFilter.apply(RegionMaskingFilter.java:53)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.function.visitor.RegionVisitor.resume(RegionVisitor.java:60)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.function.operation.Operations.completeLegacy(Operations.java:55)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.EditSession.replaceBlocks(EditSession.java:1172)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.command.UtilityCommands.replaceNear(UtilityCommands.java:281)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.command.UtilityCommandsRegistration.cmd$replacenear(UtilityCommandsRegistration.java:540)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.command.UtilityCommandsRegistration$$Lambda$5255/0x0000000801b050d8.run(Unknown Source)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		org.enginehub.piston.CommandManager.execute(CommandManager.java:157)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.extension.platform.PlatformCommandManager.handleCommand(PlatformCommandManager.java:494)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.lang.reflect.Method.invoke(Method.java:567)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.util.eventbus.MethodEventHandler.dispatch(MethodEventHandler.java:58)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.util.eventbus.EventHandler.handleEvent(EventHandler.java:73)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.util.eventbus.EventBus.dispatch(EventBus.java:193)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.util.eventbus.EventBus.post(EventBus.java:181)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.bukkit.WorldEditPlugin.onCommand(WorldEditPlugin.java:375)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		com.sk89q.bukkit.util.DynamicPluginCommand.execute(DynamicPluginCommand.java:55)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		app//org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:159)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.v1_17_R1.CraftServer.dispatchCommand(CraftServer.java:821)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.network.ServerGamePacketListenerImpl.handleCommand(ServerGamePacketListenerImpl.java:2170)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:1981)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:1962)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.network.protocol.game.ServerboundChatPacket.handle(ServerboundChatPacket.java:46)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.network.protocol.game.ServerboundChatPacket.handle(ServerboundChatPacket.java:6)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$1(PacketUtils.java:36)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.network.protocol.PlayerConnectionUtils$$Lambda$8720/0x0000000802883bc0.run(Unknown Source)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.TickTask.run(TickTask.java:18)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:149)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:23)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1348)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.shouldRun(MinecraftServer.java:190)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:122)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1327)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1320)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:132)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1397)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1188)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer$$Lambda$3680/0x00000008013e13a0.run(Unknown Source)
+[12:31:20] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.lang.Thread.run(Thread.java:831)
+[12:31:20] [Paper Watchdog Thread/ERROR]: ------------------------------
+[12:31:20] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[12:31:20] [Paper Watchdog Thread/ERROR]: ------------------------------
+[12:31:25] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-102 (MC: 1.17.1) ---
+[12:31:25] [Paper Watchdog Thread/ERROR]: The server has not responded for 15 seconds! Creating thread dump
+[12:31:25] [Paper Watchdog Thread/ERROR]: ------------------------------
+[12:31:25] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[12:31:25] [Paper Watchdog Thread/ERROR]: Chunk wait task info below: 
+[12:31:25] [Paper Watchdog Thread/ERROR]: -5604,-6259 in 'airport:
+[12:31:25] [Paper Watchdog Thread/ERROR]: Load Task - none
+[12:31:25] [Paper Watchdog Thread/ERROR]: Save Task - none
+[12:31:25] [Paper Watchdog Thread/ERROR]: Chunk Holder - non-null
+[12:31:25] [Paper Watchdog Thread/ERROR]: Chunk Status - minecraft:features
+[12:31:25] [Paper Watchdog Thread/ERROR]: Chunk Ticket Status - minecraft:full
+[12:31:25] [Paper Watchdog Thread/ERROR]: Chunk Holder Status - minecraft:features
+[12:31:25] [Paper Watchdog Thread/ERROR]: Chunk Holder Priority - 2
+[12:31:25] [Paper Watchdog Thread/ERROR]: Chunk Neighbors: 
+[12:31:25] [Paper Watchdog Thread/ERROR]:   -5603,-6260 in airport:
+[12:31:25] [Paper Watchdog Thread/ERROR]:   Chunk Holder - non-null
+[12:31:25] [Paper Watchdog Thread/ERROR]:   Chunk Status - minecraft:liquid_carvers
+[12:31:25] [Paper Watchdog Thread/ERROR]:   Chunk Ticket Status - minecraft:features
+[12:31:25] [Paper Watchdog Thread/ERROR]:   Chunk Holder Status - minecraft:liquid_carvers
+[12:31:25] [Paper Watchdog Thread/ERROR]:   Chunk Holder Priority - 3
+[12:31:25] [Paper Watchdog Thread/ERROR]:   Chunk Neighbors: 
+[12:31:25] [Paper Watchdog Thread/ERROR]:     -5602,-6259 in airport:
+[12:31:25] [Paper Watchdog Thread/ERROR]:     Chunk Holder - non-null
+[12:31:25] [Paper Watchdog Thread/ERROR]:     Chunk Status - minecraft:biomes
+[12:31:25] [Paper Watchdog Thread/ERROR]:     Chunk Ticket Status - minecraft:liquid_carvers
+[12:31:25] [Paper Watchdog Thread/ERROR]:     Chunk Holder Status - minecraft:biomes
+[12:31:25] [Paper Watchdog Thread/ERROR]:     Chunk Holder Priority - 4
+[12:31:25] [Paper Watchdog Thread/ERROR]:   -5603,-6259 in airport:
+[12:31:25] [Paper Watchdog Thread/ERROR]:   Chunk Holder - non-null
+[12:31:25] [Paper Watchdog Thread/ERROR]:   Chunk Status - minecraft:liquid_carvers
+[12:31:25] [Paper Watchdog Thread/ERROR]:   Chunk Ticket Status - minecraft:features
+[12:31:25] [Paper Watchdog Thread/ERROR]:   Chunk Holder Status - minecraft:liquid_carvers
+[12:31:25] [Paper Watchdog Thread/ERROR]:   Chunk Holder Priority - 3
+[12:31:25] [Paper Watchdog Thread/ERROR]:   Chunk Neighbors: 
+[12:31:25] [Paper Watchdog Thread/ERROR]:     -5602,-6259 in airport (CIRCULAR)
+[12:31:25] [Paper Watchdog Thread/ERROR]:     -5602,-6258 in airport:
+[12:31:25] [Paper Watchdog Thread/ERROR]:     Chunk Holder - non-null
+[12:31:25] [Paper Watchdog Thread/ERROR]:     Chunk Status - minecraft:structure_starts
+[12:31:25] [Paper Watchdog Thread/ERROR]:     Chunk Ticket Status - minecraft:liquid_carvers
+[12:31:25] [Paper Watchdog Thread/ERROR]:     Chunk Holder Status - minecraft:structure_starts
+[12:31:25] [Paper Watchdog Thread/ERROR]:     Chunk Holder Priority - 4
+[12:31:25] [Paper Watchdog Thread/ERROR]:     Chunk Neighbors: 
+[12:31:25] [Paper Watchdog Thread/ERROR]:       -5594,-6250 in airport:
+[12:31:25] [Paper Watchdog Thread/ERROR]:       Chunk Holder - non-null
+[12:31:25] [Paper Watchdog Thread/ERROR]:       Chunk Status - minecraft:empty
+[12:31:25] [Paper Watchdog Thread/ERROR]:       Chunk Ticket Status - minecraft:structure_starts
+[12:31:25] [Paper Watchdog Thread/ERROR]:       Chunk Holder Status - null
+[12:31:25] [Paper Watchdog Thread/ERROR]:       Chunk Holder Priority - 5
+[12:31:25] [Paper Watchdog Thread/ERROR]:   -5603,-6258 in airport:
+[12:31:25] [Paper Watchdog Thread/ERROR]:   Chunk Holder - non-null
+[12:31:25] [Paper Watchdog Thread/ERROR]:   Chunk Status - minecraft:liquid_carvers
+[12:31:25] [Paper Watchdog Thread/ERROR]:   Chunk Ticket Status - minecraft:features
+[12:31:25] [Paper Watchdog Thread/ERROR]:   Chunk Holder Status - minecraft:liquid_carvers
+[12:31:25] [Paper Watchdog Thread/ERROR]:   Chunk Holder Priority - 3
+[12:31:25] [Paper Watchdog Thread/ERROR]:   Chunk Neighbors: 
+[12:31:25] [Paper Watchdog Thread/ERROR]:     -5602,-6259 in airport (CIRCULAR)
+[12:31:25] [Paper Watchdog Thread/ERROR]:     -5602,-6258 in airport (CIRCULAR)
+[12:31:25] [Paper Watchdog Thread/ERROR]:     -5602,-6257 in airport:
+[12:31:25] [Paper Watchdog Thread/ERROR]:     Chunk Holder - non-null
+[12:31:25] [Paper Watchdog Thread/ERROR]:     Chunk Status - minecraft:structure_starts
+[12:31:25] [Paper Watchdog Thread/ERROR]:     Chunk Ticket Status - minecraft:liquid_carvers
+[12:31:25] [Paper Watchdog Thread/ERROR]:     Chunk Holder Status - minecraft:structure_starts
+[12:31:25] [Paper Watchdog Thread/ERROR]:     Chunk Holder Priority - 4
+[12:31:25] [Paper Watchdog Thread/ERROR]:     Chunk Neighbors: 
+[12:31:25] [Paper Watchdog Thread/ERROR]:       -5594,-6250 in airport (CIRCULAR)
+[12:31:25] [Paper Watchdog Thread/ERROR]:       -5594,-6249 in airport:
+[12:31:25] [Paper Watchdog Thread/ERROR]:       Chunk Holder - non-null
+[12:31:25] [Paper Watchdog Thread/ERROR]:       Chunk Status - minecraft:empty
+[12:31:25] [Paper Watchdog Thread/ERROR]:       Chunk Ticket Status - minecraft:structure_starts
+[12:31:25] [Paper Watchdog Thread/ERROR]:       Chunk Holder Status - null
+[12:31:25] [Paper Watchdog Thread/ERROR]:       Chunk Holder Priority - 5
+[12:31:25] [Paper Watchdog Thread/ERROR]: ------------------------------
+[12:31:25] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[12:31:25] [Paper Watchdog Thread/ERROR]: 	PID: 31 | Suspended: false | Native: false | State: TIMED_WAITING
+[12:31:25] [Paper Watchdog Thread/ERROR]: 	Stack:
+[12:31:25] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/jdk.internal.misc.Unsafe.park(Native Method)
+[12:31:25] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+[12:31:25] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.util.thread.BlockableEventLoop.waitForTasks(BlockableEventLoop.java:144)
+[12:31:25] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:133)
+[12:31:25] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ServerChunkCache.getChunk(ServerChunkCache.java:515)
+[12:31:25] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.world.level.Level.getChunk(Level.java:426)
+[12:31:25] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.world.level.Level.getBlockState(Level.java:765)
+[12:31:25] [Paper Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.v1_17_R1.block.CraftBlock.getNMS(CraftBlock.java:79)
+[12:31:25] [Paper Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.v1_17_R1.block.CraftBlock.getBlockData(CraftBlock.java:162)
+[12:31:25] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.bukkit.BukkitWorld.getBlock(BukkitWorld.java:457)
+[12:31:25] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.EditSession.getBlock(EditSession.java:681)
+[12:31:25] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.session.request.RequestExtent.getBlock(RequestExtent.java:79)
+[12:31:25] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.function.mask.BlockMask.test(BlockMask.java:98)
+[12:31:25] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.function.RegionMaskingFilter.apply(RegionMaskingFilter.java:53)
+[12:31:25] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.function.visitor.RegionVisitor.resume(RegionVisitor.java:60)
+[12:31:25] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.function.operation.Operations.completeLegacy(Operations.java:55)
+[12:31:25] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.EditSession.replaceBlocks(EditSession.java:1172)
+[12:31:25] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.command.UtilityCommands.replaceNear(UtilityCommands.java:281)
+[12:31:25] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.command.UtilityCommandsRegistration.cmd$replacenear(UtilityCommandsRegistration.java:540)
+[12:31:25] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.command.UtilityCommandsRegistration$$Lambda$5255/0x0000000801b050d8.run(Unknown Source)
+[12:31:25] [Paper Watchdog Thread/ERROR]: 		org.enginehub.piston.CommandManager.execute(CommandManager.java:157)
+[12:31:25] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.extension.platform.PlatformCommandManager.handleCommand(PlatformCommandManager.java:494)
+[12:31:25] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[12:31:25] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+[12:31:25] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[12:31:25] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.lang.reflect.Method.invoke(Method.java:567)
+[12:31:25] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.util.eventbus.MethodEventHandler.dispatch(MethodEventHandler.java:58)
+[12:31:25] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.util.eventbus.EventHandler.handleEvent(EventHandler.java:73)
+[12:31:25] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.util.eventbus.EventBus.dispatch(EventBus.java:193)
+[12:31:25] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.util.eventbus.EventBus.post(EventBus.java:181)
+[12:31:25] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.bukkit.WorldEditPlugin.onCommand(WorldEditPlugin.java:375)
+[12:31:25] [Paper Watchdog Thread/ERROR]: 		com.sk89q.bukkit.util.DynamicPluginCommand.execute(DynamicPluginCommand.java:55)
+[12:31:25] [Paper Watchdog Thread/ERROR]: 		app//org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:159)
+[12:31:25] [Paper Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.v1_17_R1.CraftServer.dispatchCommand(CraftServer.java:821)
+[12:31:25] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.network.ServerGamePacketListenerImpl.handleCommand(ServerGamePacketListenerImpl.java:2170)
+[12:31:25] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:1981)
+[12:31:25] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:1962)
+[12:31:25] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.network.protocol.game.ServerboundChatPacket.handle(ServerboundChatPacket.java:46)
+[12:31:25] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.network.protocol.game.ServerboundChatPacket.handle(ServerboundChatPacket.java:6)
+[12:31:25] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$1(PacketUtils.java:36)
+[12:31:25] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.network.protocol.PlayerConnectionUtils$$Lambda$8720/0x0000000802883bc0.run(Unknown Source)
+[12:31:25] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.TickTask.run(TickTask.java:18)
+[12:31:25] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:149)
+[12:31:25] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:23)
+[12:31:25] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1348)
+[12:31:25] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.shouldRun(MinecraftServer.java:190)
+[12:31:25] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:122)
+[12:31:25] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1327)
+[12:31:25] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1320)
+[12:31:25] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:132)
+[12:31:25] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1397)
+[12:31:25] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1188)
+[12:31:25] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316)
+[12:31:25] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer$$Lambda$3680/0x00000008013e13a0.run(Unknown Source)
+[12:31:25] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.lang.Thread.run(Thread.java:831)
+[12:31:25] [Paper Watchdog Thread/ERROR]: ------------------------------
+[12:31:25] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[12:31:25] [Paper Watchdog Thread/ERROR]: ------------------------------
+[12:31:30] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-102 (MC: 1.17.1) ---
+[12:31:30] [Paper Watchdog Thread/ERROR]: The server has not responded for 20 seconds! Creating thread dump
+[12:31:30] [Paper Watchdog Thread/ERROR]: ------------------------------
+[12:31:30] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[12:31:30] [Paper Watchdog Thread/ERROR]: ------------------------------
+[12:31:30] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[12:31:30] [Paper Watchdog Thread/ERROR]: 	PID: 31 | Suspended: false | Native: false | State: RUNNABLE
+[12:31:30] [Paper Watchdog Thread/ERROR]: 	Stack:
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.concurrent.ConcurrentHashMap.transfer(ConcurrentHashMap.java:2556)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.concurrent.ConcurrentHashMap.addCount(ConcurrentHashMap.java:2354)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.concurrent.ConcurrentHashMap.compute(ConcurrentHashMap.java:2002)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ChunkHolder.onNeighborRequest(ChunkHolder.java:134)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ChunkMap.getChunkRangeFuture(ChunkMap.java:806)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ChunkMap.scheduleChunkGeneration(ChunkMap.java:1288)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ChunkMap.schedule(ChunkMap.java:1195)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ChunkHolder.getOrScheduleFuture(ChunkHolder.java:547)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ChunkMap.schedule(ChunkMap.java:1185)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ChunkHolder.getOrScheduleFuture(ChunkHolder.java:547)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ChunkMap.schedule(ChunkMap.java:1185)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ChunkHolder.getOrScheduleFuture(ChunkHolder.java:547)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ChunkMap.schedule(ChunkMap.java:1185)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ChunkHolder.getOrScheduleFuture(ChunkHolder.java:547)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ChunkMap.schedule(ChunkMap.java:1185)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ChunkHolder.getOrScheduleFuture(ChunkHolder.java:547)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ChunkMap.schedule(ChunkMap.java:1185)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ChunkHolder.getOrScheduleFuture(ChunkHolder.java:547)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ChunkMap.getChunkRangeFuture(ChunkMap.java:803)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ChunkMap.scheduleChunkGeneration(ChunkMap.java:1288)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ChunkMap.schedule(ChunkMap.java:1195)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ChunkHolder.getOrScheduleFuture(ChunkHolder.java:547)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ChunkMap.getChunkRangeFuture(ChunkMap.java:803)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ChunkMap.prepareAccessibleChunk(ChunkMap.java:1480)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ChunkHolder.updateFutures(ChunkHolder.java:681)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.DistanceManager.runAllUpdates(DistanceManager.java:130)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ServerChunkCache.runDistanceManagerUpdates(ServerChunkCache.java:666)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.DistanceManager.addPriorityTicket(DistanceManager.java:344)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.DistanceManager.markUrgent(DistanceManager.java:271)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ServerChunkCache.getChunkFutureMainThread(ServerChunkCache.java:593)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ServerChunkCache.getChunk(ServerChunkCache.java:502)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.world.level.Level.getChunk(Level.java:426)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.world.level.Level.getBlockState(Level.java:765)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.v1_17_R1.block.CraftBlock.getNMS(CraftBlock.java:79)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.v1_17_R1.block.CraftBlock.getBlockData(CraftBlock.java:162)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.bukkit.BukkitWorld.getBlock(BukkitWorld.java:457)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.EditSession.getBlock(EditSession.java:681)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.session.request.RequestExtent.getBlock(RequestExtent.java:79)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.function.mask.BlockMask.test(BlockMask.java:98)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.function.RegionMaskingFilter.apply(RegionMaskingFilter.java:53)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.function.visitor.RegionVisitor.resume(RegionVisitor.java:60)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.function.operation.Operations.completeLegacy(Operations.java:55)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.EditSession.replaceBlocks(EditSession.java:1172)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.command.UtilityCommands.replaceNear(UtilityCommands.java:281)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.command.UtilityCommandsRegistration.cmd$replacenear(UtilityCommandsRegistration.java:540)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.command.UtilityCommandsRegistration$$Lambda$5255/0x0000000801b050d8.run(Unknown Source)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		org.enginehub.piston.CommandManager.execute(CommandManager.java:157)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.extension.platform.PlatformCommandManager.handleCommand(PlatformCommandManager.java:494)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.lang.reflect.Method.invoke(Method.java:567)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.util.eventbus.MethodEventHandler.dispatch(MethodEventHandler.java:58)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.util.eventbus.EventHandler.handleEvent(EventHandler.java:73)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.util.eventbus.EventBus.dispatch(EventBus.java:193)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.util.eventbus.EventBus.post(EventBus.java:181)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.bukkit.WorldEditPlugin.onCommand(WorldEditPlugin.java:375)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		com.sk89q.bukkit.util.DynamicPluginCommand.execute(DynamicPluginCommand.java:55)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		app//org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:159)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.v1_17_R1.CraftServer.dispatchCommand(CraftServer.java:821)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.network.ServerGamePacketListenerImpl.handleCommand(ServerGamePacketListenerImpl.java:2170)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:1981)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:1962)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.network.protocol.game.ServerboundChatPacket.handle(ServerboundChatPacket.java:46)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.network.protocol.game.ServerboundChatPacket.handle(ServerboundChatPacket.java:6)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$1(PacketUtils.java:36)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.network.protocol.PlayerConnectionUtils$$Lambda$8720/0x0000000802883bc0.run(Unknown Source)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.TickTask.run(TickTask.java:18)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:149)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:23)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1348)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.shouldRun(MinecraftServer.java:190)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:122)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1327)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1320)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:132)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1397)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1188)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer$$Lambda$3680/0x00000008013e13a0.run(Unknown Source)
+[12:31:30] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.lang.Thread.run(Thread.java:831)
+[12:31:30] [Paper Watchdog Thread/ERROR]: ------------------------------
+[12:31:30] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[12:31:30] [Paper Watchdog Thread/ERROR]: ------------------------------
+[12:31:35] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-102 (MC: 1.17.1) ---
+[12:31:35] [Paper Watchdog Thread/ERROR]: The server has not responded for 25 seconds! Creating thread dump
+[12:31:35] [Paper Watchdog Thread/ERROR]: ------------------------------
+[12:31:35] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[12:31:35] [Paper Watchdog Thread/ERROR]: Chunk wait task info below: 
+[12:31:35] [Paper Watchdog Thread/ERROR]: -5186,-6259 in 'airport:
+[12:31:35] [Paper Watchdog Thread/ERROR]: Load Task - none
+[12:31:35] [Paper Watchdog Thread/ERROR]: Save Task - none
+[12:31:35] [Paper Watchdog Thread/ERROR]: Chunk Holder - non-null
+[12:31:35] [Paper Watchdog Thread/ERROR]: Chunk Status - minecraft:light
+[12:31:35] [Paper Watchdog Thread/ERROR]: Chunk Ticket Status - minecraft:full
+[12:31:35] [Paper Watchdog Thread/ERROR]: Chunk Holder Status - minecraft:features
+[12:31:35] [Paper Watchdog Thread/ERROR]: Chunk Holder Priority - 2
+[12:31:35] [Paper Watchdog Thread/ERROR]: ------------------------------
+[12:31:35] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[12:31:35] [Paper Watchdog Thread/ERROR]: 	PID: 31 | Suspended: false | Native: false | State: TIMED_WAITING
+[12:31:35] [Paper Watchdog Thread/ERROR]: 	Stack:
+[12:31:35] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/jdk.internal.misc.Unsafe.park(Native Method)
+[12:31:35] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+[12:31:35] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.util.thread.BlockableEventLoop.waitForTasks(BlockableEventLoop.java:144)
+[12:31:35] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:133)
+[12:31:35] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ServerChunkCache.getChunk(ServerChunkCache.java:515)
+[12:31:35] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.world.level.Level.getChunk(Level.java:426)
+[12:31:35] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.world.level.Level.getBlockState(Level.java:765)
+[12:31:35] [Paper Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.v1_17_R1.block.CraftBlock.getNMS(CraftBlock.java:79)
+[12:31:35] [Paper Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.v1_17_R1.block.CraftBlock.getBlockData(CraftBlock.java:162)
+[12:31:35] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.bukkit.BukkitWorld.getBlock(BukkitWorld.java:457)
+[12:31:35] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.EditSession.getBlock(EditSession.java:681)
+[12:31:35] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.session.request.RequestExtent.getBlock(RequestExtent.java:79)
+[12:31:35] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.function.mask.BlockMask.test(BlockMask.java:98)
+[12:31:35] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.function.RegionMaskingFilter.apply(RegionMaskingFilter.java:53)
+[12:31:35] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.function.visitor.RegionVisitor.resume(RegionVisitor.java:60)
+[12:31:35] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.function.operation.Operations.completeLegacy(Operations.java:55)
+[12:31:35] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.EditSession.replaceBlocks(EditSession.java:1172)
+[12:31:35] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.command.UtilityCommands.replaceNear(UtilityCommands.java:281)
+[12:31:35] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.command.UtilityCommandsRegistration.cmd$replacenear(UtilityCommandsRegistration.java:540)
+[12:31:35] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.command.UtilityCommandsRegistration$$Lambda$5255/0x0000000801b050d8.run(Unknown Source)
+[12:31:35] [Paper Watchdog Thread/ERROR]: 		org.enginehub.piston.CommandManager.execute(CommandManager.java:157)
+[12:31:35] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.extension.platform.PlatformCommandManager.handleCommand(PlatformCommandManager.java:494)
+[12:31:35] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[12:31:35] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+[12:31:35] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[12:31:35] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.lang.reflect.Method.invoke(Method.java:567)
+[12:31:35] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.util.eventbus.MethodEventHandler.dispatch(MethodEventHandler.java:58)
+[12:31:35] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.util.eventbus.EventHandler.handleEvent(EventHandler.java:73)
+[12:31:35] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.util.eventbus.EventBus.dispatch(EventBus.java:193)
+[12:31:35] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.util.eventbus.EventBus.post(EventBus.java:181)
+[12:31:35] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.bukkit.WorldEditPlugin.onCommand(WorldEditPlugin.java:375)
+[12:31:35] [Paper Watchdog Thread/ERROR]: 		com.sk89q.bukkit.util.DynamicPluginCommand.execute(DynamicPluginCommand.java:55)
+[12:31:35] [Paper Watchdog Thread/ERROR]: 		app//org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:159)
+[12:31:35] [Paper Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.v1_17_R1.CraftServer.dispatchCommand(CraftServer.java:821)
+[12:31:35] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.network.ServerGamePacketListenerImpl.handleCommand(ServerGamePacketListenerImpl.java:2170)
+[12:31:35] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:1981)
+[12:31:35] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:1962)
+[12:31:35] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.network.protocol.game.ServerboundChatPacket.handle(ServerboundChatPacket.java:46)
+[12:31:35] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.network.protocol.game.ServerboundChatPacket.handle(ServerboundChatPacket.java:6)
+[12:31:35] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$1(PacketUtils.java:36)
+[12:31:35] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.network.protocol.PlayerConnectionUtils$$Lambda$8720/0x0000000802883bc0.run(Unknown Source)
+[12:31:35] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.TickTask.run(TickTask.java:18)
+[12:31:35] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:149)
+[12:31:35] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:23)
+[12:31:35] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1348)
+[12:31:35] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.shouldRun(MinecraftServer.java:190)
+[12:31:35] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:122)
+[12:31:35] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1327)
+[12:31:35] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1320)
+[12:31:35] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:132)
+[12:31:35] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1397)
+[12:31:35] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1188)
+[12:31:35] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316)
+[12:31:35] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer$$Lambda$3680/0x00000008013e13a0.run(Unknown Source)
+[12:31:35] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.lang.Thread.run(Thread.java:831)
+[12:31:35] [Paper Watchdog Thread/ERROR]: ------------------------------
+[12:31:35] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[12:31:35] [Paper Watchdog Thread/ERROR]: ------------------------------
+[12:31:40] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-102 (MC: 1.17.1) ---
+[12:31:40] [Paper Watchdog Thread/ERROR]: The server has not responded for 30 seconds! Creating thread dump
+[12:31:40] [Paper Watchdog Thread/ERROR]: ------------------------------
+[12:31:40] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[12:31:40] [Paper Watchdog Thread/ERROR]: Chunk wait task info below: 
+[12:31:40] [Paper Watchdog Thread/ERROR]: -4981,-6259 in 'airport:
+[12:31:40] [Paper Watchdog Thread/ERROR]: Load Task - none
+[12:31:40] [Paper Watchdog Thread/ERROR]: Save Task - none
+[12:31:40] [Paper Watchdog Thread/ERROR]: Chunk Holder - non-null
+[12:31:40] [Paper Watchdog Thread/ERROR]: Chunk Status - minecraft:features
+[12:31:40] [Paper Watchdog Thread/ERROR]: Chunk Ticket Status - minecraft:full
+[12:31:40] [Paper Watchdog Thread/ERROR]: Chunk Holder Status - minecraft:features
+[12:31:40] [Paper Watchdog Thread/ERROR]: Chunk Holder Priority - 2
+[12:31:40] [Paper Watchdog Thread/ERROR]: Chunk Neighbors: 
+[12:31:40] [Paper Watchdog Thread/ERROR]:   -4980,-6258 in airport:
+[12:31:40] [Paper Watchdog Thread/ERROR]:   Chunk Holder - non-null
+[12:31:40] [Paper Watchdog Thread/ERROR]:   Chunk Status - minecraft:liquid_carvers
+[12:31:40] [Paper Watchdog Thread/ERROR]:   Chunk Ticket Status - minecraft:features
+[12:31:40] [Paper Watchdog Thread/ERROR]:   Chunk Holder Status - minecraft:liquid_carvers
+[12:31:40] [Paper Watchdog Thread/ERROR]:   Chunk Holder Priority - 3
+[12:31:40] [Paper Watchdog Thread/ERROR]:   Chunk Neighbors: 
+[12:31:40] [Paper Watchdog Thread/ERROR]:     -4979,-6257 in airport:
+[12:31:40] [Paper Watchdog Thread/ERROR]:     Chunk Holder - non-null
+[12:31:40] [Paper Watchdog Thread/ERROR]:     Chunk Status - minecraft:biomes
+[12:31:40] [Paper Watchdog Thread/ERROR]:     Chunk Ticket Status - minecraft:liquid_carvers
+[12:31:40] [Paper Watchdog Thread/ERROR]:     Chunk Holder Status - minecraft:biomes
+[12:31:40] [Paper Watchdog Thread/ERROR]:     Chunk Holder Priority - 4
+[12:31:40] [Paper Watchdog Thread/ERROR]: ------------------------------
+[12:31:40] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[12:31:40] [Paper Watchdog Thread/ERROR]: 	PID: 31 | Suspended: false | Native: false | State: TIMED_WAITING
+[12:31:40] [Paper Watchdog Thread/ERROR]: 	Stack:
+[12:31:40] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/jdk.internal.misc.Unsafe.park(Native Method)
+[12:31:40] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+[12:31:40] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.util.thread.BlockableEventLoop.waitForTasks(BlockableEventLoop.java:144)
+[12:31:40] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:133)
+[12:31:40] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ServerChunkCache.getChunk(ServerChunkCache.java:515)
+[12:31:40] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.world.level.Level.getChunk(Level.java:426)
+[12:31:40] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.world.level.Level.getBlockState(Level.java:765)
+[12:31:40] [Paper Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.v1_17_R1.block.CraftBlock.getNMS(CraftBlock.java:79)
+[12:31:40] [Paper Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.v1_17_R1.block.CraftBlock.getBlockData(CraftBlock.java:162)
+[12:31:40] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.bukkit.BukkitWorld.getBlock(BukkitWorld.java:457)
+[12:31:40] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.EditSession.getBlock(EditSession.java:681)
+[12:31:40] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.session.request.RequestExtent.getBlock(RequestExtent.java:79)
+[12:31:40] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.function.mask.BlockMask.test(BlockMask.java:98)
+[12:31:40] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.function.RegionMaskingFilter.apply(RegionMaskingFilter.java:53)
+[12:31:40] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.function.visitor.RegionVisitor.resume(RegionVisitor.java:60)
+[12:31:40] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.function.operation.Operations.completeLegacy(Operations.java:55)
+[12:31:40] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.EditSession.replaceBlocks(EditSession.java:1172)
+[12:31:40] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.command.UtilityCommands.replaceNear(UtilityCommands.java:281)
+[12:31:40] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.command.UtilityCommandsRegistration.cmd$replacenear(UtilityCommandsRegistration.java:540)
+[12:31:40] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.command.UtilityCommandsRegistration$$Lambda$5255/0x0000000801b050d8.run(Unknown Source)
+[12:31:40] [Paper Watchdog Thread/ERROR]: 		org.enginehub.piston.CommandManager.execute(CommandManager.java:157)
+[12:31:40] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.extension.platform.PlatformCommandManager.handleCommand(PlatformCommandManager.java:494)
+[12:31:40] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[12:31:40] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+[12:31:40] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[12:31:40] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.lang.reflect.Method.invoke(Method.java:567)
+[12:31:40] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.util.eventbus.MethodEventHandler.dispatch(MethodEventHandler.java:58)
+[12:31:40] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.util.eventbus.EventHandler.handleEvent(EventHandler.java:73)
+[12:31:40] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.util.eventbus.EventBus.dispatch(EventBus.java:193)
+[12:31:40] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.util.eventbus.EventBus.post(EventBus.java:181)
+[12:31:40] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.bukkit.WorldEditPlugin.onCommand(WorldEditPlugin.java:375)
+[12:31:40] [Paper Watchdog Thread/ERROR]: 		com.sk89q.bukkit.util.DynamicPluginCommand.execute(DynamicPluginCommand.java:55)
+[12:31:40] [Paper Watchdog Thread/ERROR]: 		app//org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:159)
+[12:31:40] [Paper Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.v1_17_R1.CraftServer.dispatchCommand(CraftServer.java:821)
+[12:31:40] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.network.ServerGamePacketListenerImpl.handleCommand(ServerGamePacketListenerImpl.java:2170)
+[12:31:40] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:1981)
+[12:31:40] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:1962)
+[12:31:40] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.network.protocol.game.ServerboundChatPacket.handle(ServerboundChatPacket.java:46)
+[12:31:40] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.network.protocol.game.ServerboundChatPacket.handle(ServerboundChatPacket.java:6)
+[12:31:40] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$1(PacketUtils.java:36)
+[12:31:40] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.network.protocol.PlayerConnectionUtils$$Lambda$8720/0x0000000802883bc0.run(Unknown Source)
+[12:31:40] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.TickTask.run(TickTask.java:18)
+[12:31:40] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:149)
+[12:31:40] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:23)
+[12:31:40] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1348)
+[12:31:40] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.shouldRun(MinecraftServer.java:190)
+[12:31:40] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:122)
+[12:31:40] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1327)
+[12:31:40] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1320)
+[12:31:40] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:132)
+[12:31:40] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1397)
+[12:31:40] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1188)
+[12:31:40] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316)
+[12:31:40] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer$$Lambda$3680/0x00000008013e13a0.run(Unknown Source)
+[12:31:40] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.lang.Thread.run(Thread.java:831)
+[12:31:40] [Paper Watchdog Thread/ERROR]: ------------------------------
+[12:31:40] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[12:31:40] [Paper Watchdog Thread/ERROR]: ------------------------------
+[12:31:45] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-102 (MC: 1.17.1) ---
+[12:31:45] [Paper Watchdog Thread/ERROR]: The server has not responded for 35 seconds! Creating thread dump
+[12:31:45] [Paper Watchdog Thread/ERROR]: ------------------------------
+[12:31:45] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[12:31:45] [Paper Watchdog Thread/ERROR]: Chunk wait task info below: 
+[12:31:45] [Paper Watchdog Thread/ERROR]: -4775,-6259 in 'airport:
+[12:31:45] [Paper Watchdog Thread/ERROR]: Load Task - none
+[12:31:45] [Paper Watchdog Thread/ERROR]: Save Task - none
+[12:31:45] [Paper Watchdog Thread/ERROR]: Chunk Holder - non-null
+[12:31:45] [Paper Watchdog Thread/ERROR]: Chunk Status - minecraft:light
+[12:31:45] [Paper Watchdog Thread/ERROR]: Chunk Ticket Status - minecraft:full
+[12:31:45] [Paper Watchdog Thread/ERROR]: Chunk Holder Status - minecraft:features
+[12:31:45] [Paper Watchdog Thread/ERROR]: Chunk Holder Priority - 2
+[12:31:45] [Paper Watchdog Thread/ERROR]: ------------------------------
+[12:31:45] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[12:31:45] [Paper Watchdog Thread/ERROR]: 	PID: 31 | Suspended: false | Native: false | State: TIMED_WAITING
+[12:31:45] [Paper Watchdog Thread/ERROR]: 	Stack:
+[12:31:45] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/jdk.internal.misc.Unsafe.park(Native Method)
+[12:31:45] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+[12:31:45] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.util.thread.BlockableEventLoop.waitForTasks(BlockableEventLoop.java:144)
+[12:31:45] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:133)
+[12:31:45] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ServerChunkCache.getChunk(ServerChunkCache.java:515)
+[12:31:45] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.world.level.Level.getChunk(Level.java:426)
+[12:31:45] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.world.level.Level.getBlockState(Level.java:765)
+[12:31:45] [Paper Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.v1_17_R1.block.CraftBlock.getNMS(CraftBlock.java:79)
+[12:31:45] [Paper Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.v1_17_R1.block.CraftBlock.getBlockData(CraftBlock.java:162)
+[12:31:45] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.bukkit.BukkitWorld.getBlock(BukkitWorld.java:457)
+[12:31:45] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.EditSession.getBlock(EditSession.java:681)
+[12:31:45] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.session.request.RequestExtent.getBlock(RequestExtent.java:79)
+[12:31:45] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.function.mask.BlockMask.test(BlockMask.java:98)
+[12:31:45] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.function.RegionMaskingFilter.apply(RegionMaskingFilter.java:53)
+[12:31:45] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.function.visitor.RegionVisitor.resume(RegionVisitor.java:60)
+[12:31:45] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.function.operation.Operations.completeLegacy(Operations.java:55)
+[12:31:45] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.EditSession.replaceBlocks(EditSession.java:1172)
+[12:31:45] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.command.UtilityCommands.replaceNear(UtilityCommands.java:281)
+[12:31:45] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.command.UtilityCommandsRegistration.cmd$replacenear(UtilityCommandsRegistration.java:540)
+[12:31:45] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.command.UtilityCommandsRegistration$$Lambda$5255/0x0000000801b050d8.run(Unknown Source)
+[12:31:45] [Paper Watchdog Thread/ERROR]: 		org.enginehub.piston.CommandManager.execute(CommandManager.java:157)
+[12:31:45] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.extension.platform.PlatformCommandManager.handleCommand(PlatformCommandManager.java:494)
+[12:31:45] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[12:31:45] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+[12:31:45] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[12:31:45] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.lang.reflect.Method.invoke(Method.java:567)
+[12:31:45] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.util.eventbus.MethodEventHandler.dispatch(MethodEventHandler.java:58)
+[12:31:45] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.util.eventbus.EventHandler.handleEvent(EventHandler.java:73)
+[12:31:45] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.util.eventbus.EventBus.dispatch(EventBus.java:193)
+[12:31:45] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.util.eventbus.EventBus.post(EventBus.java:181)
+[12:31:45] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.bukkit.WorldEditPlugin.onCommand(WorldEditPlugin.java:375)
+[12:31:45] [Paper Watchdog Thread/ERROR]: 		com.sk89q.bukkit.util.DynamicPluginCommand.execute(DynamicPluginCommand.java:55)
+[12:31:45] [Paper Watchdog Thread/ERROR]: 		app//org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:159)
+[12:31:45] [Paper Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.v1_17_R1.CraftServer.dispatchCommand(CraftServer.java:821)
+[12:31:45] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.network.ServerGamePacketListenerImpl.handleCommand(ServerGamePacketListenerImpl.java:2170)
+[12:31:45] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:1981)
+[12:31:45] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:1962)
+[12:31:45] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.network.protocol.game.ServerboundChatPacket.handle(ServerboundChatPacket.java:46)
+[12:31:45] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.network.protocol.game.ServerboundChatPacket.handle(ServerboundChatPacket.java:6)
+[12:31:45] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$1(PacketUtils.java:36)
+[12:31:45] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.network.protocol.PlayerConnectionUtils$$Lambda$8720/0x0000000802883bc0.run(Unknown Source)
+[12:31:45] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.TickTask.run(TickTask.java:18)
+[12:31:45] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:149)
+[12:31:45] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:23)
+[12:31:45] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1348)
+[12:31:45] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.shouldRun(MinecraftServer.java:190)
+[12:31:45] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:122)
+[12:31:45] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1327)
+[12:31:45] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1320)
+[12:31:45] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:132)
+[12:31:45] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1397)
+[12:31:45] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1188)
+[12:31:45] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316)
+[12:31:45] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer$$Lambda$3680/0x00000008013e13a0.run(Unknown Source)
+[12:31:45] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.lang.Thread.run(Thread.java:831)
+[12:31:45] [Paper Watchdog Thread/ERROR]: ------------------------------
+[12:31:45] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[12:31:45] [Paper Watchdog Thread/ERROR]: ------------------------------
+[12:31:48] [User Authenticator #2/INFO]: UUID of player ItzAnu_ is 0a1a720b-311f-3fd9-9d73-75a754fc81cf
+[12:31:50] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-102 (MC: 1.17.1) ---
+[12:31:50] [Paper Watchdog Thread/ERROR]: The server has not responded for 40 seconds! Creating thread dump
+[12:31:50] [Paper Watchdog Thread/ERROR]: ------------------------------
+[12:31:50] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[12:31:50] [Paper Watchdog Thread/ERROR]: Chunk wait task info below: 
+[12:31:50] [Paper Watchdog Thread/ERROR]: -4566,-6259 in 'airport:
+[12:31:50] [Paper Watchdog Thread/ERROR]: Load Task - none
+[12:31:50] [Paper Watchdog Thread/ERROR]: Save Task - none
+[12:31:50] [Paper Watchdog Thread/ERROR]: Chunk Holder - non-null
+[12:31:50] [Paper Watchdog Thread/ERROR]: Chunk Status - minecraft:light
+[12:31:50] [Paper Watchdog Thread/ERROR]: Chunk Ticket Status - minecraft:full
+[12:31:50] [Paper Watchdog Thread/ERROR]: Chunk Holder Status - minecraft:features
+[12:31:50] [Paper Watchdog Thread/ERROR]: Chunk Holder Priority - 2
+[12:31:50] [Paper Watchdog Thread/ERROR]: ------------------------------
+[12:31:50] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[12:31:50] [Paper Watchdog Thread/ERROR]: 	PID: 31 | Suspended: false | Native: false | State: TIMED_WAITING
+[12:31:50] [Paper Watchdog Thread/ERROR]: 	Stack:
+[12:31:50] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/jdk.internal.misc.Unsafe.park(Native Method)
+[12:31:50] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+[12:31:50] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.util.thread.BlockableEventLoop.waitForTasks(BlockableEventLoop.java:144)
+[12:31:50] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:133)
+[12:31:50] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ServerChunkCache.getChunk(ServerChunkCache.java:515)
+[12:31:50] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.world.level.Level.getChunk(Level.java:426)
+[12:31:50] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.world.level.Level.getBlockState(Level.java:765)
+[12:31:50] [Paper Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.v1_17_R1.block.CraftBlock.getNMS(CraftBlock.java:79)
+[12:31:50] [Paper Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.v1_17_R1.block.CraftBlock.getBlockData(CraftBlock.java:162)
+[12:31:50] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.bukkit.BukkitWorld.getBlock(BukkitWorld.java:457)
+[12:31:50] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.EditSession.getBlock(EditSession.java:681)
+[12:31:50] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.session.request.RequestExtent.getBlock(RequestExtent.java:79)
+[12:31:50] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.function.mask.BlockMask.test(BlockMask.java:98)
+[12:31:50] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.function.RegionMaskingFilter.apply(RegionMaskingFilter.java:53)
+[12:31:50] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.function.visitor.RegionVisitor.resume(RegionVisitor.java:60)
+[12:31:50] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.function.operation.Operations.completeLegacy(Operations.java:55)
+[12:31:50] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.EditSession.replaceBlocks(EditSession.java:1172)
+[12:31:50] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.command.UtilityCommands.replaceNear(UtilityCommands.java:281)
+[12:31:50] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.command.UtilityCommandsRegistration.cmd$replacenear(UtilityCommandsRegistration.java:540)
+[12:31:50] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.command.UtilityCommandsRegistration$$Lambda$5255/0x0000000801b050d8.run(Unknown Source)
+[12:31:50] [Paper Watchdog Thread/ERROR]: 		org.enginehub.piston.CommandManager.execute(CommandManager.java:157)
+[12:31:50] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.extension.platform.PlatformCommandManager.handleCommand(PlatformCommandManager.java:494)
+[12:31:50] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[12:31:50] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+[12:31:50] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[12:31:50] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.lang.reflect.Method.invoke(Method.java:567)
+[12:31:50] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.util.eventbus.MethodEventHandler.dispatch(MethodEventHandler.java:58)
+[12:31:50] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.util.eventbus.EventHandler.handleEvent(EventHandler.java:73)
+[12:31:50] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.util.eventbus.EventBus.dispatch(EventBus.java:193)
+[12:31:50] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.util.eventbus.EventBus.post(EventBus.java:181)
+[12:31:50] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.bukkit.WorldEditPlugin.onCommand(WorldEditPlugin.java:375)
+[12:31:50] [Paper Watchdog Thread/ERROR]: 		com.sk89q.bukkit.util.DynamicPluginCommand.execute(DynamicPluginCommand.java:55)
+[12:31:50] [Paper Watchdog Thread/ERROR]: 		app//org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:159)
+[12:31:50] [Paper Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.v1_17_R1.CraftServer.dispatchCommand(CraftServer.java:821)
+[12:31:50] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.network.ServerGamePacketListenerImpl.handleCommand(ServerGamePacketListenerImpl.java:2170)
+[12:31:50] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:1981)
+[12:31:50] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:1962)
+[12:31:50] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.network.protocol.game.ServerboundChatPacket.handle(ServerboundChatPacket.java:46)
+[12:31:50] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.network.protocol.game.ServerboundChatPacket.handle(ServerboundChatPacket.java:6)
+[12:31:50] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$1(PacketUtils.java:36)
+[12:31:50] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.network.protocol.PlayerConnectionUtils$$Lambda$8720/0x0000000802883bc0.run(Unknown Source)
+[12:31:50] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.TickTask.run(TickTask.java:18)
+[12:31:50] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:149)
+[12:31:50] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:23)
+[12:31:50] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1348)
+[12:31:50] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.shouldRun(MinecraftServer.java:190)
+[12:31:50] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:122)
+[12:31:50] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1327)
+[12:31:50] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1320)
+[12:31:50] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:132)
+[12:31:50] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1397)
+[12:31:50] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1188)
+[12:31:50] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316)
+[12:31:50] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer$$Lambda$3680/0x00000008013e13a0.run(Unknown Source)
+[12:31:50] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.lang.Thread.run(Thread.java:831)
+[12:31:50] [Paper Watchdog Thread/ERROR]: ------------------------------
+[12:31:50] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[12:31:50] [Paper Watchdog Thread/ERROR]: ------------------------------
+[12:31:55] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-102 (MC: 1.17.1) ---
+[12:31:55] [Paper Watchdog Thread/ERROR]: The server has not responded for 45 seconds! Creating thread dump
+[12:31:55] [Paper Watchdog Thread/ERROR]: ------------------------------
+[12:31:55] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[12:31:55] [Paper Watchdog Thread/ERROR]: Chunk wait task info below: 
+[12:31:55] [Paper Watchdog Thread/ERROR]: -4363,-6259 in 'airport:
+[12:31:55] [Paper Watchdog Thread/ERROR]: Load Task - none
+[12:31:55] [Paper Watchdog Thread/ERROR]: Save Task - none
+[12:31:55] [Paper Watchdog Thread/ERROR]: Chunk Holder - non-null
+[12:31:55] [Paper Watchdog Thread/ERROR]: Chunk Status - minecraft:features
+[12:31:55] [Paper Watchdog Thread/ERROR]: Chunk Ticket Status - minecraft:full
+[12:31:55] [Paper Watchdog Thread/ERROR]: Chunk Holder Status - minecraft:features
+[12:31:55] [Paper Watchdog Thread/ERROR]: Chunk Holder Priority - 2
+[12:31:55] [Paper Watchdog Thread/ERROR]: Chunk Neighbors: 
+[12:31:55] [Paper Watchdog Thread/ERROR]:   -4362,-6258 in airport:
+[12:31:55] [Paper Watchdog Thread/ERROR]:   Chunk Holder - non-null
+[12:31:55] [Paper Watchdog Thread/ERROR]:   Chunk Status - minecraft:liquid_carvers
+[12:31:55] [Paper Watchdog Thread/ERROR]:   Chunk Ticket Status - minecraft:features
+[12:31:55] [Paper Watchdog Thread/ERROR]:   Chunk Holder Status - minecraft:liquid_carvers
+[12:31:55] [Paper Watchdog Thread/ERROR]:   Chunk Holder Priority - 3
+[12:31:55] [Paper Watchdog Thread/ERROR]:   Chunk Neighbors: 
+[12:31:55] [Paper Watchdog Thread/ERROR]:     -4361,-6258 in airport:
+[12:31:55] [Paper Watchdog Thread/ERROR]:     Chunk Holder - non-null
+[12:31:55] [Paper Watchdog Thread/ERROR]:     Chunk Status - minecraft:structure_starts
+[12:31:55] [Paper Watchdog Thread/ERROR]:     Chunk Ticket Status - minecraft:liquid_carvers
+[12:31:55] [Paper Watchdog Thread/ERROR]:     Chunk Holder Status - minecraft:structure_starts
+[12:31:55] [Paper Watchdog Thread/ERROR]:     Chunk Holder Priority - 4
+[12:31:55] [Paper Watchdog Thread/ERROR]:     Chunk Neighbors: 
+[12:31:55] [Paper Watchdog Thread/ERROR]:       -4353,-6250 in airport:
+[12:31:55] [Paper Watchdog Thread/ERROR]:       Chunk Holder - non-null
+[12:31:55] [Paper Watchdog Thread/ERROR]:       Chunk Status - minecraft:empty
+[12:31:55] [Paper Watchdog Thread/ERROR]:       Chunk Ticket Status - minecraft:structure_starts
+[12:31:55] [Paper Watchdog Thread/ERROR]:       Chunk Holder Status - null
+[12:31:55] [Paper Watchdog Thread/ERROR]:       Chunk Holder Priority - 5
+[12:31:55] [Paper Watchdog Thread/ERROR]:       -4353,-6251 in airport:
+[12:31:55] [Paper Watchdog Thread/ERROR]:       Chunk Holder - non-null
+[12:31:55] [Paper Watchdog Thread/ERROR]:       Chunk Status - minecraft:empty
+[12:31:55] [Paper Watchdog Thread/ERROR]:       Chunk Ticket Status - minecraft:structure_starts
+[12:31:55] [Paper Watchdog Thread/ERROR]:       Chunk Holder Status - null
+[12:31:55] [Paper Watchdog Thread/ERROR]:       Chunk Holder Priority - 5
+[12:31:55] [Paper Watchdog Thread/ERROR]:     -4361,-6257 in airport:
+[12:31:55] [Paper Watchdog Thread/ERROR]:     Chunk Holder - non-null
+[12:31:55] [Paper Watchdog Thread/ERROR]:     Chunk Status - minecraft:structure_starts
+[12:31:55] [Paper Watchdog Thread/ERROR]:     Chunk Ticket Status - minecraft:liquid_carvers
+[12:31:55] [Paper Watchdog Thread/ERROR]:     Chunk Holder Status - minecraft:structure_starts
+[12:31:55] [Paper Watchdog Thread/ERROR]:     Chunk Holder Priority - 4
+[12:31:55] [Paper Watchdog Thread/ERROR]:     Chunk Neighbors: 
+[12:31:55] [Paper Watchdog Thread/ERROR]:       -4353,-6249 in airport:
+[12:31:55] [Paper Watchdog Thread/ERROR]:       Chunk Holder - non-null
+[12:31:55] [Paper Watchdog Thread/ERROR]:       Chunk Status - minecraft:empty
+[12:31:55] [Paper Watchdog Thread/ERROR]:       Chunk Ticket Status - minecraft:structure_starts
+[12:31:55] [Paper Watchdog Thread/ERROR]:       Chunk Holder Status - null
+[12:31:55] [Paper Watchdog Thread/ERROR]:       Chunk Holder Priority - 5
+[12:31:55] [Paper Watchdog Thread/ERROR]:       -4353,-6250 in airport (CIRCULAR)
+[12:31:55] [Paper Watchdog Thread/ERROR]:       -4353,-6251 in airport (CIRCULAR)
+[12:31:55] [Paper Watchdog Thread/ERROR]:     -4361,-6259 in airport:
+[12:31:55] [Paper Watchdog Thread/ERROR]:     Chunk Holder - non-null
+[12:31:55] [Paper Watchdog Thread/ERROR]:     Chunk Status - minecraft:structure_starts
+[12:31:55] [Paper Watchdog Thread/ERROR]:     Chunk Ticket Status - minecraft:liquid_carvers
+[12:31:55] [Paper Watchdog Thread/ERROR]:     Chunk Holder Status - minecraft:structure_starts
+[12:31:55] [Paper Watchdog Thread/ERROR]:     Chunk Holder Priority - 4
+[12:31:55] [Paper Watchdog Thread/ERROR]:     Chunk Neighbors: 
+[12:31:55] [Paper Watchdog Thread/ERROR]:       -4353,-6251 in airport (CIRCULAR)
+[12:31:55] [Paper Watchdog Thread/ERROR]:   -4362,-6260 in airport:
+[12:31:55] [Paper Watchdog Thread/ERROR]:   Chunk Holder - non-null
+[12:31:55] [Paper Watchdog Thread/ERROR]:   Chunk Status - minecraft:liquid_carvers
+[12:31:55] [Paper Watchdog Thread/ERROR]:   Chunk Ticket Status - minecraft:features
+[12:31:55] [Paper Watchdog Thread/ERROR]:   Chunk Holder Status - minecraft:liquid_carvers
+[12:31:55] [Paper Watchdog Thread/ERROR]:   Chunk Holder Priority - 3
+[12:31:55] [Paper Watchdog Thread/ERROR]:   Chunk Neighbors: 
+[12:31:55] [Paper Watchdog Thread/ERROR]:     -4361,-6260 in airport:
+[12:31:55] [Paper Watchdog Thread/ERROR]:     Chunk Holder - non-null
+[12:31:55] [Paper Watchdog Thread/ERROR]:     Chunk Status - minecraft:biomes
+[12:31:55] [Paper Watchdog Thread/ERROR]:     Chunk Ticket Status - minecraft:liquid_carvers
+[12:31:55] [Paper Watchdog Thread/ERROR]:     Chunk Holder Status - minecraft:biomes
+[12:31:55] [Paper Watchdog Thread/ERROR]:     Chunk Holder Priority - 4
+[12:31:55] [Paper Watchdog Thread/ERROR]:     -4361,-6259 in airport (CIRCULAR)
+[12:31:55] [Paper Watchdog Thread/ERROR]:   -4362,-6259 in airport:
+[12:31:55] [Paper Watchdog Thread/ERROR]:   Chunk Holder - non-null
+[12:31:55] [Paper Watchdog Thread/ERROR]:   Chunk Status - minecraft:liquid_carvers
+[12:31:55] [Paper Watchdog Thread/ERROR]:   Chunk Ticket Status - minecraft:features
+[12:31:55] [Paper Watchdog Thread/ERROR]:   Chunk Holder Status - minecraft:liquid_carvers
+[12:31:55] [Paper Watchdog Thread/ERROR]:   Chunk Holder Priority - 3
+[12:31:55] [Paper Watchdog Thread/ERROR]:   Chunk Neighbors: 
+[12:31:55] [Paper Watchdog Thread/ERROR]:     -4361,-6258 in airport (CIRCULAR)
+[12:31:55] [Paper Watchdog Thread/ERROR]:     -4361,-6260 in airport (CIRCULAR)
+[12:31:55] [Paper Watchdog Thread/ERROR]:     -4361,-6259 in airport (CIRCULAR)
+[12:31:55] [Paper Watchdog Thread/ERROR]: ------------------------------
+[12:31:55] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[12:31:55] [Paper Watchdog Thread/ERROR]: 	PID: 31 | Suspended: false | Native: false | State: TIMED_WAITING
+[12:31:55] [Paper Watchdog Thread/ERROR]: 	Stack:
+[12:31:55] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/jdk.internal.misc.Unsafe.park(Native Method)
+[12:31:55] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+[12:31:55] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.util.thread.BlockableEventLoop.waitForTasks(BlockableEventLoop.java:144)
+[12:31:55] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:133)
+[12:31:55] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ServerChunkCache.getChunk(ServerChunkCache.java:515)
+[12:31:55] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.world.level.Level.getChunk(Level.java:426)
+[12:31:55] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.world.level.Level.getBlockState(Level.java:765)
+[12:31:55] [Paper Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.v1_17_R1.block.CraftBlock.getNMS(CraftBlock.java:79)
+[12:31:55] [Paper Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.v1_17_R1.block.CraftBlock.getBlockData(CraftBlock.java:162)
+[12:31:55] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.bukkit.BukkitWorld.getBlock(BukkitWorld.java:457)
+[12:31:55] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.EditSession.getBlock(EditSession.java:681)
+[12:31:55] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.session.request.RequestExtent.getBlock(RequestExtent.java:79)
+[12:31:55] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.function.mask.BlockMask.test(BlockMask.java:98)
+[12:31:55] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.function.RegionMaskingFilter.apply(RegionMaskingFilter.java:53)
+[12:31:55] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.function.visitor.RegionVisitor.resume(RegionVisitor.java:60)
+[12:31:55] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.function.operation.Operations.completeLegacy(Operations.java:55)
+[12:31:55] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.EditSession.replaceBlocks(EditSession.java:1172)
+[12:31:55] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.command.UtilityCommands.replaceNear(UtilityCommands.java:281)
+[12:31:55] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.command.UtilityCommandsRegistration.cmd$replacenear(UtilityCommandsRegistration.java:540)
+[12:31:55] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.command.UtilityCommandsRegistration$$Lambda$5255/0x0000000801b050d8.run(Unknown Source)
+[12:31:55] [Paper Watchdog Thread/ERROR]: 		org.enginehub.piston.CommandManager.execute(CommandManager.java:157)
+[12:31:55] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.extension.platform.PlatformCommandManager.handleCommand(PlatformCommandManager.java:494)
+[12:31:55] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[12:31:55] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+[12:31:55] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[12:31:55] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.lang.reflect.Method.invoke(Method.java:567)
+[12:31:55] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.util.eventbus.MethodEventHandler.dispatch(MethodEventHandler.java:58)
+[12:31:55] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.util.eventbus.EventHandler.handleEvent(EventHandler.java:73)
+[12:31:55] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.util.eventbus.EventBus.dispatch(EventBus.java:193)
+[12:31:55] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.util.eventbus.EventBus.post(EventBus.java:181)
+[12:31:55] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.bukkit.WorldEditPlugin.onCommand(WorldEditPlugin.java:375)
+[12:31:55] [Paper Watchdog Thread/ERROR]: 		com.sk89q.bukkit.util.DynamicPluginCommand.execute(DynamicPluginCommand.java:55)
+[12:31:55] [Paper Watchdog Thread/ERROR]: 		app//org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:159)
+[12:31:55] [Paper Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.v1_17_R1.CraftServer.dispatchCommand(CraftServer.java:821)
+[12:31:55] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.network.ServerGamePacketListenerImpl.handleCommand(ServerGamePacketListenerImpl.java:2170)
+[12:31:55] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:1981)
+[12:31:55] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:1962)
+[12:31:55] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.network.protocol.game.ServerboundChatPacket.handle(ServerboundChatPacket.java:46)
+[12:31:55] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.network.protocol.game.ServerboundChatPacket.handle(ServerboundChatPacket.java:6)
+[12:31:55] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$1(PacketUtils.java:36)
+[12:31:55] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.network.protocol.PlayerConnectionUtils$$Lambda$8720/0x0000000802883bc0.run(Unknown Source)
+[12:31:55] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.TickTask.run(TickTask.java:18)
+[12:31:55] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:149)
+[12:31:55] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:23)
+[12:31:55] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1348)
+[12:31:55] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.shouldRun(MinecraftServer.java:190)
+[12:31:55] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:122)
+[12:31:55] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1327)
+[12:31:55] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1320)
+[12:31:55] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:132)
+[12:31:55] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1397)
+[12:31:55] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1188)
+[12:31:55] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316)
+[12:31:55] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer$$Lambda$3680/0x00000008013e13a0.run(Unknown Source)
+[12:31:55] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.lang.Thread.run(Thread.java:831)
+[12:31:55] [Paper Watchdog Thread/ERROR]: ------------------------------
+[12:31:55] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[12:31:55] [Paper Watchdog Thread/ERROR]: ------------------------------

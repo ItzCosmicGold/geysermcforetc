@@ -1,0 +1,42 @@
+# All saved data for Staff+. Only modify this file if you know what you're doing!
+
+0a1a720b-311f-3fd9-9d73-75a754fc81cf:
+  name: ItzAnu_
+  glass-color: 0
+  reports: []
+  warnings: []
+  notes: []
+  alert-options:
+  - XRAY;true
+  - MENTION;true
+  - NAME_CHANGE;true
+ece661d4-e806-336f-82a1-aad5cd5271dc:
+  name: test12546522
+  glass-color: 0
+  reports: []
+  warnings: []
+  notes: []
+  alert-options:
+  - XRAY;true
+  - MENTION;true
+  - NAME_CHANGE;true
+24bdb072-2bfd-33d7-a3fa-18de4977256a:
+  name: GoingHarp803263
+  glass-color: 0
+  reports: []
+  warnings: []
+  notes: []
+  alert-options:
+  - XRAY;true
+  - MENTION;true
+  - NAME_CHANGE;true
+b8ff9a00-997b-359b-9af1-6025ce8b0425:
+  name: RubricSundew721
+  glass-color: 0
+  reports: []
+  warnings: []
+  notes: []
+  alert-options:
+  - XRAY;true
+  - MENTION;true
+  - NAME_CHANGE;true

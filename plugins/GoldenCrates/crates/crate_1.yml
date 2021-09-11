@@ -1,0 +1,102 @@
+name: §2Common Crate
+template: hidden_chests
+cooldown: 30
+attached-citizens: '15'
+permission-required: false
+key:
+  id: common
+open-cost:
+  vault: 0.0
+  exp: 0
+block:
+  pushback:
+    enabled: true
+  hologram:
+    enabled: false
+    text:
+    - §2Common Crate
+  locations: []
+  effects:
+    type: SIMPLE
+    particle: FLAME
+effects:
+  STATIC:
+    type: SIMPLE
+    particle: FLAME
+    sound: NONE
+  USE:
+    type: NONE
+    particle: NONE
+    sound: NONE
+  OPEN:
+    type: FIREWORK
+    particle: FLAME
+    sound: ENTITY_FIREWORK_ROCKET_BLAST
+rewards:
+  broadcast: false
+  min: 1
+  max: 1
+  list:
+    8f9ecc7a-4bc6-4d4d-983f-498eb50576c7:
+      name: Apple
+      chance: 30.0
+      cmds: []
+      item: 1800020009km800fdlkmspb3e9gmct1qc5o70r350400agrfeln78g00
+      preview: 1800020009km800fdlkmspb3e9gmct1qc5o70r350400agrfeln78g00
+    b066d491-ef59-4825-a8ef-9759b308fcce:
+      name: Emerald
+      chance: 9.0
+      cmds: []
+      item: 2g0004000j9cg012rb9dpim6sj1cpq3kpbdclp62r340400agrfeln78200
+      preview: 2g0004000j9cg012rb9dpim6sj1cpq3kpbdclp62r340400agrfeln78200
+    fabe2b47-321e-4455-951d-39e2bdc90ce8:
+      name: Bone
+      chance: 20.0
+      cmds: []
+      item: 5000080016ip001pmmirj5cdp62pjk79h6urj50400agrfeln78400
+      preview: 5000080016ip001pmmirj5cdp62pjk79h6urj50400agrfeln78400
+    12e6d89c-9b40-4cb5-9b37-c1ecc6093d3d:
+      name: Sugar
+      chance: 15.0
+      cmds: []
+      item: 1800020009km800fdlkmspb3e9gmct1qedqmeobi0400agrfeln78400
+      preview: 1800020009km800fdlkmspb3e9gmct1qedqmeobi0400agrfeln78400
+    f98fee3a-74d2-4083-8a95-d91e1cce549c:
+      name: Blaze Rod
+      chance: 10.0
+      cmds: []
+      item: 5000080016ip002dmmirj5cdp62pjk79h6oobqclfn4rr40400agrfeln78180
+      preview: 5000080016ip002dmmirj5cdp62pjk79h6oobqclfn4rr40400agrfeln78180
+    37f63445-d2d4-44e3-91c7-ce0ce0bff32c:
+      name: Diamonds!
+      chance: 3.0
+      cmds: []
+      item: 2g0004000j9cg012rb9dpim6sj1cpq3kp39c5mmurj40400agrfeln78080
+      preview: 2g0004000j9cg012rb9dpim6sj1cpq3kp39c5mmurj40400agrfeln78080
+    322b5cb9-333b-4a0e-8b8a-40d047459c33:
+      name: Boom Boom!
+      chance: 25.0
+      cmds: []
+      item: k00010004qb4006mqqbeclhn4ob6egt78rjk0400agrfeln78100
+      preview: k00010004qb4006mqqbeclhn4ob6egt78rjk0400agrfeln78100
+    95225738-ce7e-4980-815b-0378e2c75616:
+      name: Glowstone
+      chance: 25.0
+      cmds: []
+      item: 5000080016ip002dmmirj5cdp62pjk79jmorrnedq6urj50400agrfeln782g0
+      preview: 5000080016ip002dmmirj5cdp62pjk79jmorrnedq6urj50400agrfeln782g0
+preview: default
+item:
+  material: CHEST
+  amount: 1
+  durability: 0
+  name: '&6Sample Crate #1 &7(Right-Click)'
+  enchanted: true
+  item-flags:
+  - HIDE_ENCHANTS
+  - HIDE_ATTRIBUTES
+  - HIDE_UNBREAKABLE
+  - HIDE_DESTROYS
+  - HIDE_PLACED_ON
+  - HIDE_POTION_EFFECTS
+  unbreakable: false

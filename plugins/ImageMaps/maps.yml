@@ -1,0 +1,200 @@
+storageVersion: 1
+maps:
+  704:
+    ==: ImageMaps.Map
+    image: sl2.png
+    x: 0
+    y: 1
+    scale: 1.0
+  705:
+    ==: ImageMaps.Map
+    image: sl2.png
+    x: 0
+    y: 2
+    scale: 1.0
+  706:
+    ==: ImageMaps.Map
+    image: sl2.png
+    x: 1
+    y: 0
+    scale: 1.0
+  707:
+    ==: ImageMaps.Map
+    image: sl2.png
+    x: 1
+    y: 1
+    scale: 1.0
+  708:
+    ==: ImageMaps.Map
+    image: sl2.png
+    x: 1
+    y: 2
+    scale: 1.0
+  709:
+    ==: ImageMaps.Map
+    image: sl2.png
+    x: 2
+    y: 0
+    scale: 1.0
+  710:
+    ==: ImageMaps.Map
+    image: sl2.png
+    x: 2
+    y: 1
+    scale: 1.0
+  711:
+    ==: ImageMaps.Map
+    image: sl2.png
+    x: 2
+    y: 2
+    scale: 1.0
+  712:
+    ==: ImageMaps.Map
+    image: sl2.png
+    x: 3
+    y: 0
+    scale: 1.0
+  713:
+    ==: ImageMaps.Map
+    image: sl2.png
+    x: 3
+    y: 1
+    scale: 1.0
+  714:
+    ==: ImageMaps.Map
+    image: sl2.png
+    x: 3
+    y: 2
+    scale: 1.0
+  715:
+    ==: ImageMaps.Map
+    image: sl2.png
+    x: 4
+    y: 0
+    scale: 1.0
+  716:
+    ==: ImageMaps.Map
+    image: sl2.png
+    x: 4
+    y: 1
+    scale: 1.0
+  717:
+    ==: ImageMaps.Map
+    image: sl2.png
+    x: 4
+    y: 2
+    scale: 1.0
+  718:
+    ==: ImageMaps.Map
+    image: sl2.png
+    x: 5
+    y: 0
+    scale: 1.0
+  719:
+    ==: ImageMaps.Map
+    image: sl2.png
+    x: 5
+    y: 1
+    scale: 1.0
+  720:
+    ==: ImageMaps.Map
+    image: sl2.png
+    x: 5
+    y: 2
+    scale: 1.0
+  721:
+    ==: ImageMaps.Map
+    image: sl2.png
+    x: 6
+    y: 0
+    scale: 1.0
+  722:
+    ==: ImageMaps.Map
+    image: sl2.png
+    x: 6
+    y: 1
+    scale: 1.0
+  723:
+    ==: ImageMaps.Map
+    image: sl2.png
+    x: 6
+    y: 2
+    scale: 1.0
+  724:
+    ==: ImageMaps.Map
+    image: sl2.png
+    x: 7
+    y: 0
+    scale: 1.0
+  725:
+    ==: ImageMaps.Map
+    image: sl2.png
+    x: 7
+    y: 1
+    scale: 1.0
+  726:
+    ==: ImageMaps.Map
+    image: sl2.png
+    x: 7
+    y: 2
+    scale: 1.0
+  727:
+    ==: ImageMaps.Map
+    image: sl2.png
+    x: 8
+    y: 0
+    scale: 1.0
+  728:
+    ==: ImageMaps.Map
+    image: sl2.png
+    x: 8
+    y: 1
+    scale: 1.0
+  729:
+    ==: ImageMaps.Map
+    image: sl2.png
+    x: 8
+    y: 2
+    scale: 1.0
+  730:
+    ==: ImageMaps.Map
+    image: sl2.png
+    x: 9
+    y: 0
+    scale: 1.0
+  731:
+    ==: ImageMaps.Map
+    image: sl2.png
+    x: 9
+    y: 1
+    scale: 1.0
+  732:
+    ==: ImageMaps.Map
+    image: sl2.png
+    x: 9
+    y: 2
+    scale: 1.0
+  733:
+    ==: ImageMaps.Map
+    image: sl2.png
+    x: 10
+    y: 0
+    scale: 1.0
+  734:
+    ==: ImageMaps.Map
+    image: sl2.png
+    x: 10
+    y: 1
+    scale: 1.0
+  735:
+    ==: ImageMaps.Map
+    image: sl2.png
+    x: 10
+    y: 2
+    scale: 1.0
+  703:
+    ==: ImageMaps.Map
+    image: sl2.png
+    x: 0
+    y: 0
+    scale: 1.0

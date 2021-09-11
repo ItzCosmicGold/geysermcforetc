@@ -1,0 +1,51 @@
+bot-enabled: true
+discord-bot-token: ODc0NDk0NzEzMjM3OTk1NTQw.YRHyqg.0G4v2cFSc9OUdqOkAEiBYYV6m5M
+use-id-for-roles: false
+add-remove-roles:
+- Owner
+add-roles:
+- Whitelister
+limited-add-roles:
+- LimitedWhitelister
+whitelisted-roles:
+- Whitelisted
+banned-roles:
+- Banned
+clear-command-roles:
+- Owner
+target-text-channels:
+- '874496038055055420'
+use-easy-whitelist: false
+allow-limited-whitelisters-to-unwhitelist-self: true
+whitelisted-role-auto-add: false
+whitelisted-role-auto-remove: false
+limited-whitelist-enabled: true
+use-on-ban-events: false
+unwhitelist-and-clear-perms-on-name-clear: true
+max-whitelist-amount: 3
+username-validation: true
+removed-list-enabled: true
+add-in-game-adds-and-removes-to-list: true
+use-custom-messages: false
+use-custom-prefixes: false
+show-player-skin-on-whitelist: false
+show-player-count: true
+show-vanished-players-in-player-count: false
+assign-perms-with-ultra-perms: false
+assign-perms-with-luck-perms: false
+use-on-whitelist-commands: false
+send-instructional-message-on-whitelist: false
+use-timer-for-instructional-message: false
+timer-wait-time-in-seconds: 5
+un-whitelist-on-server-leave: false
+remove-unnecessary-messages-from-whitelist-channel: false
+seconds-to-remove-message-from-whitelist-channel: 5
+set-removed-message-colour-to-red: false
+show-warning-in-command-channel: false
+hide-info-command-replies: false
+use-crafatar-for-avatars: false
+use-geyser/floodgate-compatibility: false
+un-whitelist-if-missing-role: false
+check-all-roles: false
+geyser/floodgate prefix: SetThisToWhateverPrefixYouUse
+role-to-check-for: Twitch Subscriber

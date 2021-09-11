@@ -1,0 +1,59 @@
+inventory:
+  armor:
+  - null
+  - null
+  - null
+  - null
+  content:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: WOODEN_AXE
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: TNT
+    amount: 4
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: GLOWSTONE
+    amount: 10
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: BONE
+    amount: 16
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null

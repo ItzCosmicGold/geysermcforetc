@@ -1,0 +1,70 @@
+xcheck-update: true
+
+Prefix: '&e&l[SERVER] '
+
+OpenBookDelaySecond: 0
+
+OpenBookSoundEffect:
+    enable: true
+    sound-effect: ENTITY_PLAYER_LEVELUP
+
+Open-Book-Onjoin:
+
+    enable: true
+    #if true, it always open book for players when they join the server.
+    #if false, it only open book for players when server owner clear the player list data (/booknews clear).
+    always: true
+
+Message:
+    No-Permission: '&cYou don''t have permission to do this!'
+
+Interactive-Word:
+    1:
+      word: "Click Me!"
+      placeholder: "examplelink"
+      bold: true
+      color: red
+      italic: false
+      underlined: true
+      obfuscated: false
+      clickevent:
+        enable: true
+        action: OPEN_URL # [OPEN_URL / RUN_COMMAND]
+        link: https://www.google.com/
+        command: ''
+      hoverevent:
+        enable: false
+        text: ""
+      
+book:
+
+ ######################################
+# "1": # "1" mean page 1               #
+# |-                                   #
+#   First Line                         #
+#   Second Line                        #
+#   Third Line                         #
+#   (Spacing will leave the line empty)#
+#   Fifth Line                         #
+#                                      #
+ ######################################
+  "1":
+  |- 
+    &c&lPATCH 2.01.12
+
+    &0<----------------->
+    &c☠ &6SKYBLOCK ADDED &c☠&r
+    <----------------->
+    &6★ &rClick The Skyblock NPC select your type of island.
+    &6★ &rThen Go To The Enderman Click it to re-enter your island.
+    &6★ &rReport's Plugin Ready to use.
+
+  "2":
+  |-
+     &6★ &rIsland types In Game Currently:
+     &2✔ &rDesert Themed
+     &2✔ &rMycelium Themed
+     &2✔ &rForest Themed
+
+     YOUR DEVOLOPER:
+     &4X&cD&6D&2X
